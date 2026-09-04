@@ -1,5 +1,5 @@
 ---
-title: "Comment aider un proche atteint du syndrome de Diogène ?"
+title: "Comment aider un proche atteint du syndrome de Diogène ?"
 accroche: >-
   Ce qu'il faut faire, et surtout ne pas faire, quand un parent ou un
   voisin vit dans un logement envahi.

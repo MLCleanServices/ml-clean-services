@@ -1,5 +1,5 @@
 ---
-title: "Quelles aides pour remettre en état le logement d'une personne en difficulté ?"
+title: "Quelles aides pour remettre en état le logement d'une personne en difficulté ?"
 accroche: >-
   CCAS, caisses de retraite, tutelles : les pistes de financement à explorer
   quand le coût est un obstacle.

@@ -13,7 +13,7 @@ chiffres:
 valeurs:
   - nom: Empathie, écoute
     description: >-
-      Comprendre avant d'agir&nbsp;: chaque situation est écoutée
+      Comprendre avant d'agir : chaque situation est écoutée
       sans jugement, avec respect de la temporalité de chacun.
   - nom: Confidentialité
     description: >-
@@ -21,7 +21,7 @@ valeurs:
       traitement des informations qui nous sont confiées.
   - nom: Utilité sociale
     description: >-
-      Chaque chantier a un impact concret&nbsp;: maintien à domicile,
+      Chaque chantier a un impact concret : maintien à domicile,
       retour à un logement digne, soulagement des familles.
   - nom: Professionnalisme
     description: >-

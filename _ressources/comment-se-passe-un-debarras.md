@@ -1,5 +1,5 @@
 ---
-title: "Débarras de logement : comment ça se passe concrètement ?"
+title: "Débarras de logement : comment ça se passe concrètement ?"
 accroche: >-
   De la première visite au logement vide : les étapes, les délais, et les
   questions à poser avant de signer un devis.

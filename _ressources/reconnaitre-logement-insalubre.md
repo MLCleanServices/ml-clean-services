@@ -1,5 +1,5 @@
 ---
-title: "Reconnaître un logement insalubre : les signes qui doivent alerter"
+title: "Reconnaître un logement insalubre : les signes qui doivent alerter"
 accroche: >-
   Humidité, déchets, nuisibles, isolement de l'occupant : savoir repérer
   une situation d'insalubrité et savoir à qui la signaler.
