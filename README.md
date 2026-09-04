@@ -26,12 +26,13 @@ Débarras, nettoyage/désinfection et accompagnement social en Périgord Noir
 
 Rechercher `À REMPLACER` et `À COMPLÉTER` dans le projet :
 
-- [ ] Téléphone et email (`_data/contact.yml`)
-- [ ] ID Formspree (`_data/contact.yml`), créer le compte avec l'email ML Clean Services
+- [x] Téléphone et email (`_data/contact.yml`)
+- [x] Formulaire de devis : FormSubmit (`_data/contact.yml`), aucun compte à créer — activer en
+      cliquant le lien reçu par email à la première vraie soumission
 - [ ] SIRET, siège social, capital, RCS (`pages/mentions-legales.md`)
-- [ ] `url:`/`baseurl:` (`_config.yml`)
-- [ ] Logo + favicon (`assets/img/`)
-- [ ] Politique de confidentialité RGPD (`pages/confidentialite.md`, non publiée pour l'instant)
+- [x] `url:`/`baseurl:` (`_config.yml`)
+- [x] Logo + favicon (`assets/img/`)
+- [x] Politique de confidentialité RGPD (`pages/confidentialite.md`, publiée)
 
 ## Prévisualisation locale (optionnel)
 

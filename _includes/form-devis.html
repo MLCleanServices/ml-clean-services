@@ -1,17 +1,24 @@
 {%- comment -%}
-Formulaire de contact / devis, envoi par email via Formspree (site statique).
-Une fois l'endpoint renseigné dans _data/contact.yml, chaque soumission arrive
-directement dans la boîte mail de l'entreprise (celle du compte Formspree).
+Formulaire de contact / devis, envoi par email via FormSubmit (site statique,
+aucun compte à créer). Chaque soumission arrive directement dans la boîte
+mail définie par l'endpoint (_data/contact.yml).
 - `email` du demandeur = adresse de réponse (répondre au mail = répondre au client)
-- `_next`   = page de remerciement affichée après l'envoi
-- `_gotcha` = piège anti-spam (invisible)
+- `_next`     = page de remerciement affichée après l'envoi
+- `_subject`  = objet de l'email reçu
+- `_template` = "table" pour un email bien mis en forme, champ par champ
+- `_honey`    = piège anti-spam (invisible) ; nom imposé par FormSubmit
+- `_captcha`  = désactivé (false) : on garde uniquement le piège anti-spam
+  invisible, pour ne pas ajouter d'étape ni de script tiers (reCAPTCHA
+  Google) qui contredirait la page confidentialité (« aucun cookie »).
 Usage : {% include form-devis.html origine="contact" %}
 {%- endcomment -%}
 <form class="form-devis" action="{{ site.data.contact.formulaire_endpoint }}" method="POST">
   <input type="hidden" name="origine" value="{{ include.origine | default: 'site' }}">
   <input type="hidden" name="_subject" value="Nouvelle demande de devis, ML Clean Services">
   <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/merci/">
-  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
 
   <div class="form-ligne">
     <div class="form-champ">

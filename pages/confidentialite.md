@@ -28,9 +28,9 @@ prospection.
 ## Qui a Accès à ces Données ?
 
 ML Clean Services est seule destinataire du contenu de votre message. Le
-formulaire est acheminé techniquement par le prestataire Formspree, qui
-héberge la soumission le temps de sa transmission par email ; aucune autre
-société tierce n'y a accès.
+formulaire est acheminé techniquement par le prestataire FormSubmit, qui
+transmet la soumission par email sans la conserver ; aucune autre société
+tierce n'y a accès.
 
 ## Combien de Temps Sont-elles Conservées ?
 

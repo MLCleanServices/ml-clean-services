@@ -5,12 +5,12 @@ telephone: "07 57 18 80 65"
 telephone_lien: "+33757188065"
 email: "mlcleanservices24@gmail.com"
 
-# Formulaire de devis, Formspree.
-# 1. Créer un compte sur formspree.io avec l'email de ML Clean Services
-# 2. Créer un formulaire, copier son adresse ici.
-# (Basculer vers Web3Forms plus tard = remplacer cette seule ligne
-#  + le champ caché dans _includes/form-devis.html)
-formulaire_endpoint: "https://formspree.io/f/VOTRE_ID" # <!-- À REMPLACER : ID Formspree -->
+# Formulaire de devis, FormSubmit (aucun compte à créer).
+# À la toute première vraie soumission du formulaire, FormSubmit envoie un
+# email de confirmation à l'adresse ci-dessous (mlcleanservices24@gmail.com) :
+# il suffit de cliquer le lien qu'il contient pour activer définitivement
+# l'envoi des demandes suivantes. Aucune autre étape.
+formulaire_endpoint: "https://formsubmit.co/mlcleanservices24@gmail.com"
 
 zone_courte: "Périgord Noir"
 zone: "Sarlat et alentours (rayon d'environ 1 h)"
