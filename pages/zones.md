@@ -17,7 +17,7 @@ vrai suivi dans le temps.
 <figure class="carte-secteur">
   <img src="{{ '/assets/img/carte-zone.png' | relative_url }}"
        alt="Carte de la zone d'intervention : Dordogne, Corrèze et Lot autour de Sarlat"
-       width="420" height="330" loading="lazy">
+       width="500" height="460" loading="lazy">
   <figcaption><strong>Sarlat</strong>, 1 heure autour, Dordogne, Lot, Corrèze</figcaption>
 </figure>
 
