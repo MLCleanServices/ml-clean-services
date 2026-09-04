@@ -13,7 +13,7 @@ Le présent site est édité par :
 **ML Clean Services**, société par actions simplifiée (SAS)
 Siège social : 484 route du Coderc, 24200 Carsac-Aillac
 SIRET : 106 724 412 00015
-RCS : <!-- À COMPLÉTER : ville d'immatriculation (greffe) -->
+RCS : Bergerac 106 724 412
 N° TVA intracommunautaire : FR13 106724412 <!-- calculé à partir du SIREN, à vérifier -->
 Capital social : <!-- À COMPLÉTER, si vous souhaitez le publier -->
 
