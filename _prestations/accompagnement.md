@@ -28,7 +28,7 @@ aux décisions, ce qu'on garde, ce qu'on donne, ce qu'on jette. Se réapproprier
 son espace de vie, c'est aussi se réapproprier son histoire. C'est le sens de
 nos trois piliers : **Débarrassage, Nettoyage, Accompagnement**.
 
-## La coordination, notre cœur de métier
+## La Coordination, notre Cœur de Métier
 
 Une situation d'incurie ou de perte d'autonomie implique souvent de nombreux
 intervenants : famille, CCAS, travailleur social, tuteur ou curateur, médecin,

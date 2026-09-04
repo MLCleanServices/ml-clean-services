@@ -1,5 +1,5 @@
 ---
-title: "Débarrasser & trier le logement"
+title: "Débarrasser & Trier le Logement"
 ordre: 1
 image: /assets/img/photo-debarras.jpg
 accroche: >-

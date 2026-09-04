@@ -4,7 +4,7 @@
 # `actif: false` → emplacement réservé, masqué pour l'instant.
 
 principale:
-  - label: L'entreprise
+  - label: L'Entreprise
     type: groupe
     liens:
       - label: Qui sommes-nous
@@ -20,9 +20,9 @@ principale:
   # Liens directs tant que les pages « situations » sont en réserve.
   # (Le jour où l'option référencement est prise : repasser en `type: pole`
   #  avec `pole: <slug>` pour retrouver les menus déroulants automatiques.)
-  - label: Débarrasser & trier
+  - label: Débarrasser & Trier
     url: /prestations/debarras-vidage/
-  - label: Nettoyage & désinfection
+  - label: Nettoyage & Désinfection
     url: /prestations/nettoyage-desinfection/
   - label: Accompagnement
     url: /prestations/accompagnement/

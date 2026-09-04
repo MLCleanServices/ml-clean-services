@@ -1,5 +1,5 @@
 ---
-title: "Nettoyage & désinfection"
+title: "Nettoyage & Désinfection"
 ordre: 2
 image: /assets/img/photo-nettoyage.jpg
 accroche: >-
@@ -10,8 +10,8 @@ description: >-
   Noir : après syndrome de Diogène, insalubrité, ou en maintien à domicile.
   Intervention discrète et respectueuse, devis gratuit sous 72 h.
 points:
-  - Traitement des nuisibles, « Certibiocide Nuisibles »
-  - Désinfection, « Certibiocide Désinfectant »
+  - Traitement des nuisibles, « Certibiocide Nuisibles »
+  - Désinfection, « Certibiocide Désinfectant »
   - Nettoyage approfondi, produits ÉCO respectueux de la santé et de l'environnement
 ---
 
