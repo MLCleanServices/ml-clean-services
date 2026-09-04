@@ -10,7 +10,9 @@ nous confiez, notamment via le formulaire de demande de devis de ce site.
 
 ## Qui est Responsable du Traitement ?
 
-ML Clean Services, SAS.<!-- À COMPLÉTER : siège social, SIRET (voir mentions légales) -->
+**ML Clean Services**, SAS, 484 route du Coderc, 24200 Carsac-Aillac,
+SIRET 106 724 412 00015 (voir les [mentions légales]({{ '/mentions-legales/' | relative_url }})
+pour le détail complet).
 Contact : {% if site.data.contact.email != "" %}[{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}){% endif %}
 
 ## Quelles Données Collectons-nous ?
