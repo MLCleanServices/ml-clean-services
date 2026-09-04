@@ -43,4 +43,4 @@ personnes âgées.
 
 Un appel ou un message via la [page contact]({{ '/contact/' | relative_url }}) :
 nous convenons d'une visite gratuite, puis vous recevez un devis détaillé sous
-72 h. Intervention possible sous 7 jours.
+72 h. Intervention sur mesure.

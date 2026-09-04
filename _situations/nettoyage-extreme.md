@@ -48,5 +48,4 @@ location ou préparé pour une vente. Nous pouvons également mettre en place un
 [entretien régulier]({{ '/situations/maintien-a-domicile/' | relative_url }})
 pour que la situation ne se reproduise pas.
 
-Visite gratuite à Sarlat et alentours, devis détaillé sous 72 h, intervention
-possible sous 7 jours.
+Visite gratuite à Sarlat et alentours, devis détaillé sous 72 h, intervention sur mesure.

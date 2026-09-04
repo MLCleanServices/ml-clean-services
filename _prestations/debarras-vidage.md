@@ -1,6 +1,7 @@
 ---
 title: "Débarrasser & trier le logement"
 ordre: 1
+image: /assets/img/photo-debarras.jpg
 accroche: >-
   Vider une maison ou un appartement, entièrement ou en partie, en prenant
   soin de ce qui compte : les souvenirs, les documents, les objets de valeur.
@@ -30,9 +31,8 @@ concentrer sur l'essentiel**.
 - **Tri sélectif systématique** : rien ne part « en vrac ». Les objets en bon
   état sont orientés vers les filières locales de don et de réemploi, les
   matériaux recyclables vers le recyclage, le reste vers la déchetterie.
-- **Gestion administrative** : si la situation le demande, nous pouvons vous
-  aider dans les démarches liées au logement, en lien avec les organismes
-  concernés.
+- **Gestion administrative** : nous pouvons trier et organiser une
+  accumulation de courriers et de documents administratifs.
 
 ## Notre différence : le respect de l'histoire des lieux
 

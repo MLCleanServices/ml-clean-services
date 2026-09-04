@@ -31,11 +31,34 @@ qui vous éviteront les mauvaises surprises.
 
 ## Combien ça coûte ?
 
-Le prix dépend de trois facteurs : le **volume** à évacuer, **l'accessibilité**
-(étage, escaliers, distance de stationnement) et la **valorisation possible**,
-les objets donnés ou recyclés coûtent moins cher à traiter que ce qui part
+Le prix dépend de plusieurs facteurs :
+
+- la distance ;
+- l'accessibilité (étage, escaliers, distance de stationnement) ;
+- les volumes à évacuer ;
+- la surface à désinfecter ;
+- les traces de nuisibles à éradiquer ;
+- l'état du bien ;
+- la valorisation possible.
+
+Les objets donnés ou recyclés coûtent moins cher à traiter que ce qui part
 en déchetterie. C'est pourquoi un tri soigné réduit la facture : chez ML Clean
 Services, c'est systématique.
+
+## Le devis peut-il augmenter après coup ?
+
+Non : notre devis est ferme. C'est précisément l'intérêt de la visite
+préalable, nous évaluons le chantier réel, pas une estimation au téléphone.
+
+Cependant, si lors de notre intervention vous exprimez un autre besoin,
+celui-ci fera l'objet d'un nouveau devis ou complément de devis.
+
+## Délais et déroulement
+
+Après validation du devis, nous intervenons généralement dans nos meilleurs
+délais. Le délai exact dépend de l'urgence de votre situation et de notre
+planning : parlez-nous-en dès le premier contact, nous nous adaptons chaque
+fois que possible.
 
 ## Les questions à poser avant de signer
 
@@ -54,4 +77,4 @@ détaille notre méthode. L'essentiel tient en une phrase : nous débarrassons
 des logements, jamais des histoires, ce qui compte pour vous est préservé.
 
 [Demandez votre visite gratuite]({{ '/contact/' | relative_url }}) : devis
-sous 72 h, intervention possible sous 7 jours à Sarlat et alentours.
+sous 72 h, intervention dans nos meilleurs délais, à Sarlat et alentours.

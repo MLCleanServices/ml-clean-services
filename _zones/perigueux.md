@@ -29,14 +29,13 @@ nous intervenons dans tout le Grand Périgueux avec nos engagements habituels.
 Périgueux est le siège des services départementaux, service social du
 Département, MDPH, associations tutélaires, bailleurs sociaux. À tous ces
 professionnels, nous proposons un interlocuteur unique et des engagements
-fiables : **devis sous 72 h** transmissible au dossier, **intervention sous
-7 jours**, **facturation à un tiers**, compte rendu d'intervention écrit.
+fiables : **devis sous 72 h** transmissible au dossier, **intervention sur mesure**, **facturation à un tiers**, compte rendu d'intervention écrit.
 Notre [espace professionnels]({{ '/professionnels/' | relative_url }})
 détaille notre fonctionnement.
 
 ## La même éthique, partout
 
-Entreprise de l'économie sociale et solidaire, nous appliquons à Périgueux la
+Entreprise de l'Économie Sociale et Solidaire, nous appliquons à Périgueux la
 même charte qu'à Sarlat : aucun jugement, la personne associée aux décisions,
 les objets en bon état donnés plutôt que jetés, les documents et souvenirs
 préservés et remis. Un logement remis en état doit servir un projet de vie,

@@ -5,33 +5,33 @@ sous_titre: "CCAS, travailleurs sociaux, tutelles, établissements : un partenai
 description: >-
   ML Clean Services, partenaire des CCAS, travailleurs sociaux, tutelles,
   EHPAD et professionnels de l'immobilier en Périgord Noir : devis sous 72 h,
-  intervention sous 7 jours, facturation à un tiers, compte rendu d'intervention.
+  intervention sur mesure, facturation à un tiers, compte rendu d'intervention.
 sans_cta: true
 ---
 
-Vous accompagnez une personne dont le logement est devenu un obstacle, à son
+Vous accompagnez une personne dont le logement est devenu un obstacle à son
 maintien à domicile, à sa santé, à sa sortie d'hospitalisation ? ML Clean
 Services est conçue pour travailler **avec** vous : une entreprise de
-l'économie sociale et solidaire, dont l'un des fondateurs est éducateur
-spécialisé de métier.
+l'Économie Sociale et Solidaire, dont l'un des fondateurs est Éducateur
+Spécialisé de métier.
 
 ## À qui s'adresse cet espace ?
 
-- **CCAS et services sociaux du département** (assistantes sociales, MSA)
-- **Mandataires judiciaires**, tutelles et curatelles
-- **EHPAD et hôpitaux** (préparation de sorties, entrées en établissement)
-- **Huissiers, agents immobiliers et bailleurs** (remise en état de biens)
-- **Associations de logement et communautés de communes**
+- **CCAS, Services Sociaux du Département, MSA** : assistantes de service social.
+- **Mandataires Judiciaires**, tutelles et curatelles
+- **EHPAD et Hôpitaux** (préparation de sorties, entrées en établissement)
+- **Notaires, Huissiers, Agents Immobiliers et Bailleurs** (remise en état de biens)
+- **Associations de Logement, Communautés de Communes et Mairie**
 
 ## Nos engagements envers les prescripteurs
 
 | Engagement | Concrètement |
 |---|---|
 | **Visite d'évaluation gratuite** | Sur place, en votre présence si vous le souhaitez |
-| **Devis sous 72 h** | Détaillé, transmissible tel quel à votre organisme ou au juge des tutelles |
-| **Intervention sous 7 jours** | Après validation, utile pour les sorties d'hospitalisation |
-| **Facturation à un tiers** | Tutelle, famille, organisme : nous nous adaptons au montage du dossier |
-| **Compte rendu d'intervention** | Trace écrite pour vos dossiers |
+| **Devis sous 72 h** | Détaillé, répondant aux besoins et demandes identifiés en collaboration avec le prescripteur et/ou le client |
+| **Intervention sur mesure** | Respect de la temporalité de chacun, avec un processus d'intervention préalable possible |
+| **Facturation à un tiers** | Tutelle, organisme, famille : facturation à un tiers possible, nous nous adaptons au montage du dossier (documents nécessaires) |
+| **Compte rendu d'intervention** | Possibilité d'établir et de suivre le processus d'intervention : contrat moral, compte rendu, suivi |
 | **Interlocuteur unique** | Du premier appel au suivi post-intervention |
 
 ## Une approche compatible avec votre déontologie
@@ -54,8 +54,9 @@ sortie d'insalubrité, apaisement d'une situation familiale.
 
 ## Situations fréquemment traitées
 
-Syndrome de Diogène et incurie, logements insalubres, débarras après décès ou
-entrée en établissement, remise en état avant relocation. Retrouvez le détail
+Syndrome de Diogène et syllogomanie (accumulation compulsive), incurie,
+logements insalubres, débarras après décès ou entrée en établissement, remise
+en état avant relocation. Retrouvez le détail
 dans [nos prestations]({{ '/prestations/accompagnement/' | relative_url }}) et
 nos pages par situation.
 

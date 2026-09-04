@@ -35,7 +35,7 @@ conditions**, et aux familles de gérer les transitions sans s'épuiser.
 
 Nous travaillons volontiers avec les acteurs sociaux du Lot, CCAS,
 travailleurs sociaux de secteur, tutelles, avec les mêmes engagements que
-partout : devis sous 72 h, intervention sous 7 jours, facturation à un tiers
+partout : devis sous 72 h, intervention sur mesure, facturation à un tiers
 possible, compte rendu d'intervention.
 
 ## En pratique

@@ -44,6 +44,6 @@ avec des délais compatibles avec un préavis.
 Familles, tuteurs et curateurs, assistantes sociales, EHPAD : l'entrée en
 établissement implique souvent plusieurs intervenants et un calendrier serré.
 Nous nous inscrivons dans cette organisation, devis sous 72 h transmissible
-au dossier, intervention sous 7 jours, facturation à un tiers possible.
+au dossier, intervention sur mesure, facturation à un tiers possible.
 
 Intervention à Sarlat et alentours. Visite et devis gratuits, sans engagement.

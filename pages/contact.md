@@ -33,7 +33,7 @@ sous 72 h**, sans engagement.
 1. **Nous vous rappelons** pour comprendre la situation et convenir d'une visite.
 2. **Visite gratuite sur place**, sans engagement, en toute discrétion.
 3. **Devis détaillé sous 72 h**, transmissible à un organisme si besoin.
-4. **Intervention sous 7 jours** après validation.
+4. **Intervention sur mesure** après validation.
 
 Vous êtes travailleur social, tuteur ou professionnel ? Un
 [espace dédié]({{ '/professionnels/' | relative_url }}) présente nos

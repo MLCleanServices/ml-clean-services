@@ -40,9 +40,9 @@ page [Accompagnement]({{ '/prestations/accompagnement/' | relative_url }}).
 
 ### Sous quel délai pouvez-vous intervenir ?
 
-Après validation du devis, nous intervenons généralement **sous 7 jours**.
-Si vous avez une contrainte particulière (sortie d'hospitalisation, vente,
-fin de bail), dites-le nous dès le premier contact.
+Après validation du devis, nous intervenons **sur mesure**, dans nos
+meilleurs délais. Si vous avez une contrainte particulière (sortie
+d'hospitalisation, vente, fin de bail), dites-le nous dès le premier contact.
 
 ### Combien de temps dure une intervention ?
 

@@ -54,4 +54,4 @@ en état de marche.**
   bien en état avant relocation ou vente.
 
 Chaque intervention commence par une visite gratuite et un devis détaillé sous
-72 h. Intervention possible sous 7 jours à Sarlat et une heure autour.
+72 h. Intervention sur mesure à Sarlat et une heure autour.

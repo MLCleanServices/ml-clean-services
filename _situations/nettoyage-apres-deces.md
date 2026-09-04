@@ -45,5 +45,5 @@ nécessaires au dossier.
 ## En pratique
 
 Visite gratuite sur place (ou sur photos si vous êtes loin), devis détaillé
-sous 72 h, intervention possible sous 7 jours. Zone d'intervention : Sarlat
+sous 72 h, intervention sur mesure. Zone d'intervention : Sarlat
 et alentours, dans un rayon d'environ une heure.

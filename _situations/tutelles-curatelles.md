@@ -14,7 +14,7 @@ Mandataire judiciaire à la protection des majeurs, tuteur ou curateur
 familial : quand le logement d'une personne protégée doit être débarrassé ou
 remis en état, vous avez besoin d'un prestataire qui comprenne **le cadre
 juridique et humain** de votre mission. C'est notre cas, l'un de nos
-fondateurs est éducateur spécialisé de métier.
+fondateurs est Éducateur Spécialisé de métier.
 
 ## Vos contraintes, nos réponses
 
@@ -51,5 +51,5 @@ vidage d'un logement dans le cadre d'une
 fin de bail ; interventions d'urgence sanitaire (nuisibles, insalubrité).
 
 Un interlocuteur unique, une équipe locale, des délais fiables : devis sous
-72 h, intervention sous 7 jours, à Sarlat et alentours. Contactez-nous via
+72 h, intervention sur mesure, à Sarlat et alentours. Contactez-nous via
 l'[espace professionnels]({{ '/professionnels/' | relative_url }}).

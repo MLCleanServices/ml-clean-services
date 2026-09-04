@@ -55,5 +55,4 @@ situation d'incurie. Notre engagement d'entreprise sociale et solidaire
 s'applique ici comme ailleurs : respect des lieux, des personnes et de leur
 histoire, discrétion totale vis-à-vis du voisinage.
 
-Visite gratuite à Sarlat et alentours, devis sous 72 h, intervention possible
-sous 7 jours.
+Visite gratuite à Sarlat et alentours, devis sous 72 h, intervention sur mesure.

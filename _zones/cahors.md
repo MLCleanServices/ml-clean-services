@@ -6,7 +6,7 @@ accroche: >-
 description: >-
   Débarras, nettoyage et désinfection de logement à Cahors et dans le
   Quercy : syndrome de Diogène, insalubrité, succession, encombrants.
-  Devis gratuit sous 72 h, intervention sous 7 jours.
+  Devis gratuit sous 72 h, intervention sur mesure.
 ---
 
 Préfecture du Lot, Cahors est à environ une heure de route de Sarlat, dans
@@ -39,8 +39,7 @@ instructions.
 CCAS, travailleurs sociaux, mandataires judiciaires, agences immobilières du
 secteur de Cahors : notre
 [espace professionnels]({{ '/professionnels/' | relative_url }}) détaille nos
-engagements, devis sous 72 h transmissible au dossier, intervention sous
-7 jours, interlocuteur unique.
+engagements, devis sous 72 h transmissible au dossier, intervention sur mesure, interlocuteur unique.
 
 Visite gratuite à Cahors et dans le Quercy : décrivez-nous votre situation
 via la [page contact]({{ '/contact/' | relative_url }}).

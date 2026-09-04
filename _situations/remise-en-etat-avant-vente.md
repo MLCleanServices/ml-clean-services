@@ -40,8 +40,7 @@ local fiable pour vos biens difficiles,
   [Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }})) où peu
   d'entreprises acceptent d'intervenir.
 
-Devis sous 72 h transmissible à votre client ou votre service, intervention
-sous 7 jours, justificatifs fournis. Un interlocuteur unique, une équipe
+Devis sous 72 h transmissible à votre client ou votre service, intervention sur mesure, justificatifs fournis. Un interlocuteur unique, une équipe
 locale, pas de sous-traitance venue de loin.
 
 ## Notre état d'esprit, même ici

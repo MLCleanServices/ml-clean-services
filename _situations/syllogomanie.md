@@ -51,5 +51,4 @@ La personne elle-même, un proche inquiet, ou un professionnel (CCAS,
 travailleur social, tutelle). Nous travaillons en coordination avec les
 intervenants déjà présents, et la facturation à un tiers est possible.
 
-Visite gratuite, devis détaillé sous 72 h, intervention possible sous
-7 jours, à Sarlat et alentours, en toute discrétion.
+Visite gratuite, devis détaillé sous 72 h, intervention sur mesure, à Sarlat et alentours, en toute discrétion.

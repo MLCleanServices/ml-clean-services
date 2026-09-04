@@ -43,7 +43,7 @@ par la personne mandatée (notaire, héritier référent), avec traçabilité.
 Nous travaillons régulièrement avec les **notaires, agences immobilières et
 mandataires** : devis transmissible au dossier de succession, facturation
 adaptée, justificatifs d'intervention. Délais compatibles avec une vente :
-devis sous 72 h, intervention possible sous 7 jours.
+devis sous 72 h, intervention sur mesure.
 
 Voir aussi notre page
 [débarras et nettoyage après décès]({{ '/situations/nettoyage-apres-deces/' | relative_url }}),

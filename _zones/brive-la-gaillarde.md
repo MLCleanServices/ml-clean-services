@@ -6,7 +6,7 @@ accroche: >-
 description: >-
   Débarras, nettoyage et désinfection de logement à Brive-la-Gaillarde et
   dans le bassin de Brive : Diogène, insalubrité, succession, encombrants.
-  Devis gratuit sous 72 h, intervention sous 7 jours.
+  Devis gratuit sous 72 h, intervention sur mesure.
 ---
 
 Brive-la-Gaillarde et son bassin sont à moins d'une heure de route de Sarlat :
@@ -40,7 +40,6 @@ Brive confrontés aux situations d'habitat dégradé.
 
 ## En pratique
 
-Visite gratuite sur place, devis détaillé sous 72 h, intervention possible
-sous 7 jours. Facturation à un tiers (tutelle, famille, organisme) possible.
+Visite gratuite sur place, devis détaillé sous 72 h, intervention sur mesure. Facturation à un tiers (tutelle, famille, organisme) possible.
 Décrivez-nous votre situation via la
 [page contact]({{ '/contact/' | relative_url }}).

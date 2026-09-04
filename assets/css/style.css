@@ -184,7 +184,7 @@ section { padding: 3.5rem 0; }
 /* Listes illustrées avec les icônes de la plaquette */
 .liste-evenements { list-style: none; padding: 0; margin: 0.9rem 0 1.25rem; display: grid; gap: 0.6rem; }
 .liste-evenements li { display: flex; align-items: center; gap: 0.75rem; font-weight: 600; color: var(--encre); }
-.liste-evenements img { width: 30px; height: auto; flex: none; }
+.liste-evenements img, .liste-evenements svg { width: 30px; height: auto; flex: none; }
 
 .liste-publics { list-style: none; padding: 0; margin: 1rem 0 1.25rem; display: grid; gap: 1rem; }
 .liste-publics li { display: flex; align-items: flex-start; gap: 0.9rem; }
@@ -198,6 +198,10 @@ section { padding: 3.5rem 0; }
 
 .mission-paysage { margin: 1.5rem 0; }
 .mission-paysage img { width: 100%; height: auto; display: block; border-radius: var(--rayon); }
+
+/* Logo de certification (Certibiocide…) inséré dans un article/prestation */
+.visuel-certification { margin: 1.5rem 0; text-align: center; }
+.visuel-certification img { max-width: 220px; width: 100%; height: auto; display: inline-block; }
 
 /* Avant / après */
 .bloc-avant-apres { background: var(--fond); }
@@ -214,6 +218,14 @@ section { padding: 3.5rem 0; }
 .mission-citation {
   border-left: 4px solid var(--vert); padding-left: 1.25rem;
   font-style: italic; color: var(--bleu-nuit); font-size: 1.08rem;
+}
+
+/* Citation « signée », écriture manuscrite (équipe fondatrice…) */
+.citation-signature {
+  font-family: "Style Script", "Segoe Script", cursive;
+  font-weight: 400; color: var(--vert-texte);
+  font-size: clamp(1.5rem, 3vw, 1.9rem); line-height: 1.4;
+  margin: 1.5rem 0 0;
 }
 .mission-encadre {
   background: var(--fond-doux); border-radius: var(--rayon); padding: 1.75rem;

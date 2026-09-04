@@ -29,14 +29,13 @@ dégradé, avec la même visite d'évaluation gratuite qu'ailleurs.
 
 CCAS, travailleurs sociaux, mandataires judiciaires, agences immobilières et
 bailleurs du secteur de Bergerac : nos engagements s'appliquent partout dans
-notre zone, devis sous 72 h transmissible à votre organisme, intervention
-sous 7 jours, compte rendu d'intervention. Consultez notre
+notre zone, devis sous 72 h transmissible à votre organisme, intervention sur mesure, compte rendu d'intervention. Consultez notre
 [espace professionnels]({{ '/professionnels/' | relative_url }}).
 
 ## Une éthique qui voyage avec nous
 
-À Bergerac comme à Sarlat, nous restons une entreprise de l'économie sociale
-et solidaire : tri systématique, objets en bon état donnés aux filières de
+À Bergerac comme à Sarlat, nous restons une entreprise de l'Économie Sociale
+et Solidaire : tri systématique, objets en bon état donnés aux filières de
 réemploi plutôt que jetés, respect de la personne et de son histoire,
 discrétion totale vis-à-vis du voisinage.
 

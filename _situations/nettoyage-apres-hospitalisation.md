@@ -7,7 +7,7 @@ accroche: >-
 description: >-
   Remise en état de logement avant un retour d'hospitalisation à Sarlat et
   alentours : nettoyage, désinfection, désencombrement. Coordination avec
-  services sociaux et hôpitaux, intervention sous 7 jours.
+  services sociaux et hôpitaux, intervention sur mesure.
 ---
 
 Une hospitalisation laisse souvent le logement en suspens : nourriture restée
@@ -24,8 +24,7 @@ sécurisé.
 - **les CCAS, tutelles et services d'aide à domicile**, dans le cadre d'un
   plan d'accompagnement.
 
-Nos délais sont pensés pour ces situations : **devis sous 72 h, intervention
-sous 7 jours**, compatible avec la préparation d'une sortie d'hospitalisation.
+Nos délais sont pensés pour ces situations : **devis sous 72 h, intervention sur mesure**, compatible avec la préparation d'une sortie d'hospitalisation.
 
 ## Ce que nous faisons
 

@@ -50,5 +50,4 @@ domicile redevient possible, les aides à domicile peuvent revenir travailler,
 les liens familiaux se renouent. C'est exactement le sens de notre mission
 d'entreprise sociale et solidaire.
 
-Visite gratuite à Sarlat et alentours, devis sous 72 h, intervention possible
-sous 7 jours. Facturation à un tiers possible (tutelle, famille, organisme).
+Visite gratuite à Sarlat et alentours, devis sous 72 h, intervention sur mesure. Facturation à un tiers possible (tutelle, famille, organisme).

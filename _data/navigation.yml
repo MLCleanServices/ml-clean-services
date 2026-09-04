@@ -45,5 +45,5 @@ pied_de_page:
     url: /contact/
   - label: Mentions légales
     url: /mentions-legales/
-  # - label: Politique de confidentialité   # phase 2 : décommenter quand le texte RGPD sera inséré
-  #   url: /confidentialite/
+  - label: Politique de confidentialité
+    url: /confidentialite/

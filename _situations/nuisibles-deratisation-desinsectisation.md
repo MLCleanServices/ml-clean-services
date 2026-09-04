@@ -52,4 +52,4 @@ intervenons sans jugement, discrètement, et en coordination avec les services
 sociaux quand la situation s'inscrit dans un accompagnement plus large.
 
 Intervention à Sarlat et alentours. Diagnostic gratuit, devis sous 72 h,
-intervention possible sous 7 jours.
+intervention sur mesure.
