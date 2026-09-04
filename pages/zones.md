@@ -34,7 +34,7 @@ vrai suivi dans le temps.
 {% endfor %}
 </div>
 
-## Votre commune n'est pas listée ?
+## Votre Commune n'est pas Listée ?
 
 Ces pages couvrent les principales villes de notre secteur, mais nous
 intervenons dans **toutes les communes du Périgord Noir et alentours**.

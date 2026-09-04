@@ -17,7 +17,7 @@ au point que le logement finit par en être envahi. Contrairement au syndrome
 de Diogène, la personne reste souvent attachée à l'hygiène et consciente du
 problème : c'est **se séparer des choses** qui est douloureux.
 
-## Comprendre avant d'intervenir
+## Comprendre avant d'Intervenir
 
 Chaque objet accumulé a une raison d'être pour la personne : souvenir,
 « au cas où », projet inachevé. Un débarras imposé brutalement est vécu comme
@@ -36,7 +36,7 @@ notre approche est progressive :
 5. **Suivi** : un point régulier peut être mis en place pour éviter que
    l'accumulation ne se réinstalle.
 
-## Syllogomanie ou syndrome de Diogène ?
+## Syllogomanie ou Syndrome de Diogène ?
 
 Les deux situations se ressemblent mais ne se traitent pas de la même façon.
 Dans le [syndrome de Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }}),
@@ -45,7 +45,7 @@ personne, et d'un isolement marqué. Dans la syllogomanie, c'est l'attachement
 aux objets qui domine. Dans les deux cas, notre règle est la même : **la
 personne d'abord, jamais de jugement.**
 
-## Qui peut nous solliciter ?
+## Qui Peut nous Solliciter ?
 
 La personne elle-même, un proche inquiet, ou un professionnel (CCAS,
 travailleur social, tutelle). Nous travaillons en coordination avec les

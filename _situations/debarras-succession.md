@@ -17,7 +17,7 @@ deuil. Héritiers dispersés, parfois en désaccord, notaire qui attend, bien à
 vendre ou à restituer : nous prenons en charge la partie matérielle pour
 apaiser ce moment.
 
-## Ce que nous faisons
+## Ce que nous Faisons
 
 - **Débarras complet ou partiel** du logement, des dépendances, de la cave
   au grenier ;
@@ -30,7 +30,7 @@ apaiser ce moment.
 - **nettoyage complet** après débarras, pour rendre le logement prêt à
   vendre, à louer ou à restituer.
 
-## Des familles parfois éloignées, ou en désaccord
+## Des Familles Parfois Éloignées, ou en Désaccord
 
 Nous avons l'habitude des successions où les héritiers vivent loin : visite
 d'évaluation documentée par photos, échanges à distance, remise des objets
@@ -38,7 +38,7 @@ personnels selon vos instructions. Et quand les héritiers ne sont pas tous
 d'accord, notre position est simple : nous n'exécutons que ce qui est validé
 par la personne mandatée (notaire, héritier référent), avec traçabilité.
 
-## En lien avec les professionnels
+## En Lien avec les Professionnels
 
 Nous travaillons régulièrement avec les **notaires, agences immobilières et
 mandataires** : devis transmissible au dossier de succession, facturation

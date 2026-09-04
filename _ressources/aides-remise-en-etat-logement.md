@@ -13,7 +13,7 @@ Le logement d'un proche âgé ou en difficulté doit être débarrassé ou remis
 état, mais le coût vous inquiète ? Voici les pistes à explorer, dans l'ordre
 où nous conseillons de les activer.
 
-## 1. Le CCAS de la commune : le premier réflexe
+## 1. Le CCAS de la Commune : le Premier Réflexe
 
 Le Centre Communal d'Action Sociale est la porte d'entrée de l'aide sociale
 de proximité. Selon les communes et les situations, il peut : évaluer la
@@ -24,28 +24,28 @@ coordonne, et c'est déjà beaucoup.
 **Concrètement :** appelez la mairie et demandez le CCAS. Décrivez la
 situation simplement ; un travailleur social prendra le relais.
 
-## 2. L'assistante sociale de secteur
+## 2. L'Assistante Sociale de Secteur
 
 Pour les situations complexes (incurie, insalubrité, personne isolée), le
 service social du Département est compétent. L'assistante sociale de secteur
 connaît les dispositifs mobilisables et peut construire un plan d'aide global,
 dont la remise en état du logement n'est qu'un volet.
 
-## 3. Les caisses de retraite et organismes sociaux
+## 3. Les Caisses de Retraite et Organismes Sociaux
 
 Certaines caisses de retraite proposent des aides au maintien à domicile ou
 des secours exceptionnels pour leurs affiliés, notamment la MSA pour les
 retraités agricoles, nombreux sur notre territoire. Cela se demande au cas
 par cas, avec l'aide du travailleur social qui suit le dossier.
 
-## 4. Si la personne est sous protection (tutelle, curatelle)
+## 4. Si la Personne Est sous Protection (Tutelle, Curatelle)
 
 C'est alors le mandataire qui gère : la dépense est prélevée sur le budget de
 la personne protégée, avec l'accord du juge si son montant l'exige. Le rôle de
 l'entreprise est de fournir un **devis détaillé transmissible au dossier**,
 c'est un standard chez nous.
 
-## Ce qu'il faut retenir
+## Ce qu'il faut Retenir
 
 - Il n'existe pas d'aide « automatique » : tout dépend de la situation, de la
   commune et des organismes. Méfiez-vous des promesses générales.

@@ -13,7 +13,7 @@ Vous n'avez jamais fait appel à une entreprise de débarras et vous vous
 demandez comment ça se passe ? Voici le déroulement type, et les questions
 qui vous éviteront les mauvaises surprises.
 
-## Les 4 étapes d'un débarras
+## Les 4 Étapes d'un Débarras
 
 1. **La visite d'évaluation.** Sérieusement, méfiez-vous d'un devis fait par
    téléphone sans voir le logement : le volume, l'accessibilité et la nature
@@ -29,7 +29,7 @@ qui vous éviteront les mauvaises surprises.
    prévu au devis), avec les justificatifs nécessaires si un organisme ou un
    notaire suit le dossier.
 
-## Combien ça coûte ?
+## Combien ça Coûte ?
 
 Le prix dépend de plusieurs facteurs :
 
@@ -45,7 +45,7 @@ Les objets donnés ou recyclés coûtent moins cher à traiter que ce qui part
 en déchetterie. C'est pourquoi un tri soigné réduit la facture : chez ML Clean
 Services, c'est systématique.
 
-## Le devis peut-il augmenter après coup ?
+## Le Devis Peut-il Augmenter après Coup ?
 
 Non : notre devis est ferme. C'est précisément l'intérêt de la visite
 préalable, nous évaluons le chantier réel, pas une estimation au téléphone.
@@ -53,14 +53,14 @@ préalable, nous évaluons le chantier réel, pas une estimation au téléphone.
 Cependant, si lors de notre intervention vous exprimez un autre besoin,
 celui-ci fera l'objet d'un nouveau devis ou complément de devis.
 
-## Délais et déroulement
+## Délais et Déroulement
 
 Après validation du devis, nous intervenons généralement dans nos meilleurs
 délais. Le délai exact dépend de l'urgence de votre situation et de notre
 planning : parlez-nous-en dès le premier contact, nous nous adaptons chaque
 fois que possible.
 
-## Les questions à poser avant de signer
+## Les Questions à Poser avant de Signer
 
 - La visite et le devis sont-ils gratuits ?
 - Le devis est-il ferme, ou « ajustable » après coup ?
@@ -70,7 +70,7 @@ fois que possible.
 - L'entreprise est-elle assurée ?
 - La facturation à un tiers (tutelle, organisme) est-elle possible ?
 
-## Notre façon de faire
+## Notre Façon de Faire
 
 Notre page [débarras & vidage de logement]({{ '/prestations/debarras-vidage/' | relative_url }})
 détaille notre méthode. L'essentiel tient en une phrase : nous débarrassons

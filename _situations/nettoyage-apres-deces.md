@@ -16,7 +16,7 @@ pour la remise des clés, pour tourner la page. Notre rôle est de porter la
 charge matérielle de ce moment, **pour que vous puissiez le vivre à votre
 rythme**.
 
-## Ce que nous faisons
+## Ce que nous Faisons
 
 - **Débarras complet ou partiel** du logement : meubles, effets personnels,
   cave, grenier, dépendances.
@@ -31,7 +31,7 @@ rythme**.
 - **Nettoyage et remise en état** : le logement est rendu propre, prêt pour
   la suite (vente, relocation, restitution au bailleur).
 
-## À votre rythme, selon votre situation
+## À votre Rythme, selon votre Situation
 
 Certaines familles souhaitent être présentes et trier avec nous ; d'autres
 préfèrent nous confier l'ensemble à distance. Les deux se respectent. Nous
@@ -42,7 +42,7 @@ Nous avons l'habitude de travailler en lien avec les **notaires, agences
 immobilières, bailleurs et tutelles**, et pouvons transmettre les justificatifs
 nécessaires au dossier.
 
-## En pratique
+## En Pratique
 
 Visite gratuite sur place (ou sur photos si vous êtes loin), devis détaillé
 sous 72 h, intervention sur mesure. Zone d'intervention : Sarlat

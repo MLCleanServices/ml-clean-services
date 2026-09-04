@@ -15,7 +15,7 @@ certaines situations, le nettoyage seul ne suffit pas : il faut traiter les
 surfaces en profondeur pour éliminer bactéries, virus, moisissures et odeurs
 incrustées.
 
-## Quand une désinfection est-elle nécessaire ?
+## Quand une Désinfection Est-elle Nécessaire ?
 
 - Après une situation d'[incurie]({{ '/situations/incurie-logement/' | relative_url }})
   ou de [syndrome de Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }}) ;
@@ -28,7 +28,7 @@ incrustées.
 - avant l'arrivée d'une personne fragile (retour d'hospitalisation,
   immunité affaiblie).
 
-## Une équipe formée et certifiée
+## Une Équipe Formée et Certifiée
 
 Notre équipe est **certifiée Certibiocide** : nous sommes habilités à utiliser
 les produits biocides professionnels, en respectant les dosages, les temps de
@@ -36,7 +36,7 @@ contact et les précautions d'usage. C'est une garantie d'efficacité, et de
 sécurité pour les occupants, y compris les enfants et les animaux, grâce à des
 protocoles de réintégration clairs.
 
-## Comment se déroule une désinfection ?
+## Comment se Déroule une Désinfection ?
 
 1. **Diagnostic gratuit sur place** : nature du problème, surfaces concernées,
    niveau de traitement nécessaire.
@@ -48,7 +48,7 @@ protocoles de réintégration clairs.
 4. **Aération et consignes** : nous vous indiquons précisément quand et
    comment réintégrer les lieux.
 
-## Dignité et discrétion, comme toujours
+## Dignité et Discrétion, comme Toujours
 
 Une désinfection intervient souvent dans un moment difficile, deuil, maladie,
 situation d'incurie. Notre engagement d'entreprise sociale et solidaire

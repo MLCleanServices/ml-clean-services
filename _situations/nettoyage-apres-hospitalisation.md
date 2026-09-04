@@ -16,7 +16,7 @@ avant l'hospitalisation et que le séjour à l'hôpital a révélée. Or **un re
 à domicile réussi commence par un logement accueillant**, propre, sain,
 sécurisé.
 
-## Pour qui intervenons-nous ?
+## Pour qui Intervenons-nous ?
 
 - **La personne hospitalisée et sa famille**, pour préparer le retour ;
 - **les services sociaux hospitaliers**, quand le retour à domicile est
@@ -26,7 +26,7 @@ sécurisé.
 
 Nos délais sont pensés pour ces situations : **devis sous 72 h, intervention sur mesure**, compatible avec la préparation d'une sortie d'hospitalisation.
 
-## Ce que nous faisons
+## Ce que nous Faisons
 
 1. **Remise au propre complète** : réfrigérateur et denrées périmées, cuisine,
    sanitaires, sols, literie et textiles selon les besoins.
@@ -38,7 +38,7 @@ Nos délais sont pensés pour ces situations : **devis sous 72 h, intervention s
    situation d'[incurie]({{ '/situations/incurie-logement/' | relative_url }})
   ou de [syndrome de Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }}).
 
-## Et après le retour ?
+## Et après le Retour ?
 
 Le retour à domicile est souvent le bon moment pour mettre en place un
 [entretien régulier]({{ '/situations/maintien-a-domicile/' | relative_url }})

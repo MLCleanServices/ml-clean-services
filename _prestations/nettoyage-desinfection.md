@@ -20,7 +20,7 @@ du matériel adapté, des protocoles rigoureux, et surtout une approche humaine,
 car derrière un logement en souffrance, il y a presque toujours **une personne
 en difficulté**.
 
-## Nos 3 niveaux d'Intervention
+## Nos 3 Niveaux d'Intervention
 
 ### Nettoyage de fond
 
@@ -48,7 +48,7 @@ condition du **maintien à domicile**. Nous proposons des interventions
 ponctuelles de remise à niveau, en coordination avec les aides à domicile et
 les services sociaux, pour éviter que la situation ne se dégrade à nouveau.
 
-## Une intervention toujours digne et discrète
+## Une Intervention Toujours Digne et Discrète
 
 - Aucun jugement, jamais : notre équipe est sensibilisée aux situations de
   fragilité et intervient avec tact.
@@ -56,7 +56,7 @@ les services sociaux, pour éviter que la situation ne se dégrade à nouveau.
 - Quand la personne vit dans le logement, nous adaptons le déroulement pour
   qu'elle reste actrice de la remise en état de son lieu de vie.
 
-## Déroulement et tarif
+## Déroulement et Tarif
 
 Visite d'évaluation gratuite sur place, devis détaillé sous 72 h, intervention
 sur mesure après validation. Facturation à un tiers possible

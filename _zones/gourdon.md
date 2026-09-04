@@ -15,7 +15,7 @@ du Périgord Noir. Pour les habitants du nord du Lot, cela veut dire des
 visites rapides, pas de frais de déplacement dissuasifs, et un suivi facile
 dans la durée.
 
-## Nos services à Gourdon et dans la Bouriane
+## Nos Services à Gourdon et dans la Bouriane
 
 - **Débarras** : maisons de bourg, fermes et dépendances, caves et greniers,
   successions, départs en maison de retraite ;
@@ -25,7 +25,7 @@ dans la durée.
 - **maintien à domicile** : remises à niveau ponctuelles ou régulières pour
   les personnes âgées, en lien avec les aides à domicile.
 
-## Un territoire rural que nous connaissons
+## Un Territoire Rural que nous Connaissons
 
 L'habitat de la Bouriane ressemble à celui du Sarladais : maisons anciennes,
 granges pleines de plusieurs générations d'objets, personnes âgées attachées
@@ -38,7 +38,7 @@ travailleurs sociaux de secteur, tutelles, avec les mêmes engagements que
 partout : devis sous 72 h, intervention sur mesure, facturation à un tiers
 possible, compte rendu d'intervention.
 
-## En pratique
+## En Pratique
 
 La visite d'évaluation est gratuite à Gourdon et dans toute la Bouriane.
 Contactez-nous via la [page contact]({{ '/contact/' | relative_url }}),

@@ -14,7 +14,7 @@ situations qui font notre quotidien : logements anciens du centre-ville,
 personnes âgées isolées, parcs locatifs à remettre en état. Depuis Sarlat,
 nous intervenons dans tout le Grand Périgueux avec nos engagements habituels.
 
-## Nos interventions à Périgueux
+## Nos Interventions à Périgueux
 
 - **Débarras et vidage de logement** : successions, déménagements, entrées
   en établissement, encombrants ;
@@ -24,7 +24,7 @@ nous intervenons dans tout le Grand Périgueux avec nos engagements habituels.
   Certibiocide (punaises de lit, dératisation, désinsectisation) ;
 - **accompagnement et coordination** avec les acteurs sociaux du dossier.
 
-## Un partenaire pour les institutions départementales
+## Un Partenaire pour les Institutions Départementales
 
 Périgueux est le siège des services départementaux, service social du
 Département, MDPH, associations tutélaires, bailleurs sociaux. À tous ces
@@ -33,7 +33,7 @@ fiables : **devis sous 72 h** transmissible au dossier, **intervention sur mesur
 Notre [espace professionnels]({{ '/professionnels/' | relative_url }})
 détaille notre fonctionnement.
 
-## La même éthique, partout
+## La même Éthique, Partout
 
 Entreprise de l'Économie Sociale et Solidaire, nous appliquons à Périgueux la
 même charte qu'à Sarlat : aucun jugement, la personne associée aux décisions,

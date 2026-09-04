@@ -15,7 +15,7 @@ tout ce qui reste après des travaux ou un déménagement : quand les objets son
 trop lourds, trop gros ou trop nombreux pour la déchetterie, nous nous en
 chargeons, **du logement jusqu'à la bonne filière**.
 
-## Ce que nous enlevons
+## Ce que nous Enlevons
 
 - **Mobilier** : canapés, armoires, literie, tables, bibliothèques ;
 - **électroménager** : réfrigérateurs, machines à laver, cuisinières
@@ -27,7 +27,7 @@ chargeons, **du logement jusqu'à la bonne filière**.
 Nous intervenons dans les étages, sans ascenseur si nécessaire, et dans les
 accès difficiles.
 
-## Jeter le moins possible
+## Jeter le Moins Possible
 
 C'est notre différence d'entreprise sociale et solidaire : un encombrant
 n'est pas forcément un déchet.
@@ -40,7 +40,7 @@ n'est pas forcément un déchet.
 Vos encombrants peuvent avoir une seconde vie utile à quelqu'un du territoire,
 et cela réduit souvent le coût d'évacuation.
 
-## Ponctuel ou dans un projet plus large
+## Ponctuel ou dans un Projet plus Large
 
 L'enlèvement d'encombrants peut être une intervention simple et rapide, ou la
 première étape d'un projet plus large :

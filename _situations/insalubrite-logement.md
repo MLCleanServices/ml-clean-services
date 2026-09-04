@@ -16,7 +16,7 @@ nuisibles qui prolifèrent. Quand la situation dépasse ce qu'un ménage ordinai
 peut rattraper, une intervention professionnelle devient nécessaire, pour la
 santé des occupants comme pour la préservation du logement.
 
-## De quoi parle-t-on ?
+## De quoi Parle-t-on ?
 
 L'insalubrité recouvre des réalités variées :
 
@@ -31,7 +31,7 @@ isolées ou en souffrance psychique, des familles dépassées. **Notre rôle n'e
 pas de juger, mais de remettre le logement, et souvent un projet de vie,
 en état de marche.**
 
-## Notre méthode de remise en état
+## Notre Méthode de Remise en État
 
 1. **Évaluation gratuite sur place** : état des lieux précis, identification
    des priorités (sécurité, salubrité, urgences sanitaires).

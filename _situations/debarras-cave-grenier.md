@@ -16,7 +16,7 @@ remplissent au fil des générations et qu'on finit par ne plus oser ouvrir.
 Vider ces espaces demande des bras, de la méthode… et un certain respect pour
 ce qu'on y trouve.
 
-## Ce que nous prenons en charge
+## Ce que nous Prenons en Charge
 
 - **Caves** : y compris humides, encombrées ou d'accès difficile (escaliers
   étroits, plafonds bas) ;
@@ -25,7 +25,7 @@ ce qu'on y trouve.
   mobilier stocké ;
 - **jardins et extérieurs** : encombrants, ferraille, restes de chantier.
 
-## Le tri : notre valeur ajoutée
+## Le Tri : notre Valeur Ajoutée
 
 Ces espaces réservent des surprises, dans les deux sens. Notre engagement :
 
@@ -38,7 +38,7 @@ Ces espaces réservent des surprises, dans les deux sens. Notre engagement :
 - la ferraille et les matériaux partent au **recyclage**, le reste en
   déchetterie, dans les règles.
 
-## Dans quels cas fait-on appel à nous ?
+## Dans quels Cas Fait-on Appel à nous ?
 
 Une vente ou une [succession]({{ '/situations/debarras-succession/' | relative_url }})
 qui impose de vider entièrement ; un

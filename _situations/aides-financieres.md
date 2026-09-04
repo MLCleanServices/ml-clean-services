@@ -15,7 +15,7 @@ inquiétude, et elle est légitime : une remise en état de logement représente
 un budget. Bonne nouvelle : selon la situation, **plusieurs solutions de
 financement peuvent exister**, et notre facturation s'adapte à chacune.
 
-## Les pistes de financement possibles
+## Les Pistes de Financement Possibles
 
 Chaque situation est particulière, mais voici les pistes que nous rencontrons
 le plus souvent :
@@ -39,7 +39,7 @@ le plus souvent :
 situation et de chaque organisme. Nous ne pouvons pas garantir leur obtention,
 mais nous savons vous orienter vers les bons interlocuteurs.*
 
-## Ce que nous faisons concrètement pour vous aider
+## Ce que nous Faisons Concrètement pour vous Aider
 
 1. **Un devis clair, gratuit, sous 72 h**, détaillé poste par poste, au
    format attendu par les organismes et les juges des tutelles.

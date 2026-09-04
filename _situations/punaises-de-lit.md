@@ -15,14 +15,14 @@ partout, dans un logement impeccable comme dans un logement encombré. Mais
 une chose est sûre : plus on attend, plus l'infestation s'étend, et plus elle
 est difficile, et coûteuse, à éliminer.
 
-## Reconnaître une infestation
+## Reconnaître une Infestation
 
 - Piqûres groupées ou alignées, souvent sur les bras et les jambes, au réveil ;
 - petites taches noires (déjections) sur le matelas, les coutures, le sommier ;
 - traces de sang sur les draps ;
 - dans les cas avancés : punaises visibles à l'œil nu dans les recoins.
 
-## Notre prise en charge, certifiée Certibiocide
+## Notre Prise en Charge, Certifiée Certibiocide
 
 Notre équipe est **certifiée Certibiocide**, l'habilitation obligatoire pour
 utiliser les produits de traitement professionnels. Nous prenons en charge
@@ -41,7 +41,7 @@ l'ensemble du processus :
    réintégration des lieux.
 5. **Contrôle** : nous vérifions que l'infestation est bien éliminée.
 
-## Un enjeu social aussi
+## Un Enjeu Social Aussi
 
 Une infestation de punaises isole : on n'ose plus recevoir, on a honte d'en
 parler, on dort mal, et les situations de fragilité s'aggravent. Chez les

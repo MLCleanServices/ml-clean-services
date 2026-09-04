@@ -16,7 +16,7 @@ s'allongent. À l'inverse, un logement vidé, propre et sain retrouve
 immédiatement son potentiel. C'est une intervention où notre double
 compétence, débarras **et** nettoyage, prend tout son sens.
 
-## Pour les particuliers
+## Pour les Particuliers
 
 Vous vendez la maison de famille, récupérez un bien loué, ou préparez une
 mise en location :
@@ -28,7 +28,7 @@ mise en location :
 3. **traitements complémentaires** si nécessaire : désinfection, odeurs,
    [nuisibles]({{ '/situations/nuisibles-deratisation-desinsectisation/' | relative_url }}).
 
-## Pour les professionnels de l'immobilier et les bailleurs
+## Pour les Professionnels de l'Immobilier et les Bailleurs
 
 Agences, notaires, bailleurs privés et sociaux : nous sommes un partenaire
 local fiable pour vos biens difficiles,
@@ -43,7 +43,7 @@ local fiable pour vos biens difficiles,
 Devis sous 72 h transmissible à votre client ou votre service, intervention sur mesure, justificatifs fournis. Un interlocuteur unique, une équipe
 locale, pas de sous-traitance venue de loin.
 
-## Notre état d'esprit, même ici
+## Notre État d'Esprit, même Ici
 
 Même dans une intervention « immobilière », notre éthique s'applique : les
 effets personnels retrouvés sont préservés et remis, les objets en bon état

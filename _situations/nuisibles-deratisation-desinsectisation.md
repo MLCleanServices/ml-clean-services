@@ -17,7 +17,7 @@ traitons : [incurie]({{ '/situations/incurie-logement/' | relative_url }}),
 [syndrome de Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }}),
 [logement insalubre]({{ '/situations/insalubrite-logement/' | relative_url }}).
 
-## Notre spécificité : traiter la cause, pas seulement les nuisibles
+## Notre Spécificité : Traiter la Cause, pas Seulement les Nuisibles
 
 Poser des pièges dans un logement encombré ne sert à rien : tant que les
 nuisibles trouvent nourriture et cachettes, ils reviennent. Notre force est de
@@ -37,7 +37,7 @@ prendre en charge **l'ensemble du problème** :
 5. **Prévention** : conseils et, si besoin, petites obturations des points
    d'entrée, puis passage de contrôle.
 
-## Nuisibles traités
+## Nuisibles Traités
 
 - **Rongeurs** : rats, souris ;
 - **insectes rampants** : cafards/blattes, fourmis ;
@@ -45,7 +45,7 @@ prendre en charge **l'ensemble du problème** :
   [page dédiée]({{ '/situations/punaises-de-lit/' | relative_url }}) ;
 - autres situations : parlez-nous en lors du diagnostic.
 
-## Discrétion et dignité
+## Discrétion et Dignité
 
 Une infestation n'est pas une faute, mais elle isole et fait honte. Nous
 intervenons sans jugement, discrètement, et en coordination avec les services

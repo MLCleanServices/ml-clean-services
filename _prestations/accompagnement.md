@@ -20,7 +20,7 @@ autres : chez nous, **le nettoyage sert un projet de vie**. Un logement remis
 en état n'est pas une fin en soi, c'est un maintien à domicile rendu possible,
 un retour d'hospitalisation préparé, une famille soulagée.
 
-## La personne d'abord
+## La Personne d'Abord
 
 Notre conviction : on ne « traite » pas un logement, on accompagne une
 personne. Chaque fois que c'est possible, la personne concernée est associée
@@ -42,7 +42,7 @@ aide à domicile, parfois bailleur. Nous nous inscrivons dans ce réseau :
 - **Suivi** : des entretiens réguliers peuvent être proposés pour organiser
   le suivi, afin d'éviter que la situation initiale ne se réinstalle.
 
-## Des engagements pensés pour les prescripteurs
+## Des Engagements Pensés pour les Prescripteurs
 
 | Engagement | Concrètement |
 |---|---|

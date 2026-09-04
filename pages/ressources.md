@@ -22,7 +22,7 @@ comprendre, à agir, et à savoir quand passer le relais à des professionnels.
 {% endfor %}
 </div>
 
-## Une question qui n'est pas traitée ici ?
+## Une Question qui n'est pas Traitée Ici ?
 
 Consultez notre [FAQ]({{ '/faq/' | relative_url }}) ou
 [posez-nous directement votre question]({{ '/contact/' | relative_url }}) :

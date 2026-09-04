@@ -14,7 +14,7 @@ frontière : celle où l'habitat devient un **danger pour la santé ou la
 sécurité** de ses occupants. La repérer tôt permet d'agir avant la crise,
 hospitalisation, chute, incendie, ou procédure administrative.
 
-## Les signes visibles depuis l'extérieur
+## Les Signes Visibles depuis l'Extérieur
 
 Souvent, ce sont les voisins, le facteur ou l'aide à domicile qui alertent :
 
@@ -23,7 +23,7 @@ Souvent, ce sont les voisins, le facteur ou l'aide à domicile qui alertent :
 - va-et-vient de nuisibles (mouches en nombre, rongeurs) ;
 - déchets entassés aux abords, sur le balcon ou dans le jardin.
 
-## Les signes à l'intérieur
+## Les Signes à l'Intérieur
 
 - **Accumulation** : déchets, denrées périmées, objets rendant des pièces
   inutilisables ;
@@ -37,7 +37,7 @@ Souvent, ce sont les voisins, le facteur ou l'aide à domicile qui alertent :
 Un seul signe ne fait pas une insalubrité, c'est leur accumulation et leur
 durée qui doivent alerter.
 
-## À qui signaler la situation ?
+## À qui Signaler la Situation ?
 
 1. **Si l'occupant est en danger immédiat** (chute, malaise) : le 15 ou le 112.
 2. **Dans les autres cas : la mairie (CCAS)** de la commune. C'est
@@ -51,7 +51,7 @@ durée qui doivent alerter.
 Signaler n'est pas dénoncer : c'est souvent le premier geste qui sort une
 personne de l'isolement.
 
-## Et la remise en état ?
+## Et la Remise en État ?
 
 Une fois la situation prise en main par les bonnes personnes, la remise en
 état du logement peut commencer, et c'est notre métier :

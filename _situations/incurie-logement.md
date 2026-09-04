@@ -19,7 +19,7 @@ C'est l'une des situations les plus fréquentes que nous rencontrons, et
 souvent la moins visible : derrière une porte fermée, la situation peut se
 dégrader longtemps avant qu'un proche ou un professionnel ne s'en aperçoive.
 
-## Les signes qui doivent alerter
+## Les Signes qui Doivent Alerter
 
 - La personne ne reçoit plus personne chez elle, trouve des excuses ;
 - odeurs inhabituelles sur le palier, courrier qui s'accumule ;
@@ -29,7 +29,7 @@ dégrader longtemps avant qu'un proche ou un professionnel ne s'en aperçoive.
 Si vous êtes un proche : la culpabilisation ne fonctionne pas. Ce qu'il faut,
 c'est une main tendue, et des professionnels habitués à ces situations.
 
-## Notre intervention
+## Notre Intervention
 
 1. **Évaluation gratuite et sans jugement**, nous avons l'habitude : aucun
    logement ne nous choque, aucune situation n'est « honteuse ».
@@ -43,7 +43,7 @@ c'est une main tendue, et des professionnels habitués à ces situations.
    sociaux et les aides à domicile pour que la remise en état s'inscrive dans
    un accompagnement durable, pas un coup d'éclat sans lendemain.
 
-## L'incurie n'est pas une fatalité
+## L'Incurie n'est pas une Fatalité
 
 Un logement redevenu sain change concrètement une vie : le maintien à
 domicile redevient possible, les aides à domicile peuvent revenir travailler,

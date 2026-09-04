@@ -15,7 +15,7 @@ une vie, pour une chambre où seuls quelques meubles et objets pourront
 suivre. Ce tri-là n'est pas un débarras comme un autre : **c'est un moment de
 vie**, et nous l'abordons comme tel.
 
-## Notre approche : la personne choisit
+## Notre Approche : la Personne Choisit
 
 Chaque fois que c'est possible, nous trions **avec** la personne, à son
 rythme :
@@ -32,14 +32,14 @@ rythme :
 Les documents administratifs sont systématiquement recherchés et remis à la
 personne, à sa famille ou à son tuteur.
 
-## Le logement qui se libère
+## Le Logement qui se Libère
 
 Une fois le tri fait, nous prenons en charge la suite selon la situation :
 vidage complet, [nettoyage de fond]({{ '/prestations/nettoyage-desinfection/' | relative_url }}),
 remise en état pour une vente, une location ou une restitution au bailleur,
 avec des délais compatibles avec un préavis.
 
-## En coordination avec les acteurs de l'entrée en établissement
+## En Coordination avec les Acteurs de l'Entrée en Établissement
 
 Familles, tuteurs et curateurs, assistantes sociales, EHPAD : l'entrée en
 établissement implique souvent plusieurs intervenants et un calendrier serré.

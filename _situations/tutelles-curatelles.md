@@ -16,7 +16,7 @@ remis en état, vous avez besoin d'un prestataire qui comprenne **le cadre
 juridique et humain** de votre mission. C'est notre cas, l'un de nos
 fondateurs est Éducateur Spécialisé de métier.
 
-## Vos contraintes, nos réponses
+## Vos Contraintes, nos Réponses
 
 | Votre contrainte | Notre réponse |
 |---|---|
@@ -26,7 +26,7 @@ fondateurs est Éducateur Spécialisé de métier.
 | Rendre compte | Compte rendu d'intervention écrit, photos avant/après sur demande |
 | Facturation au dossier | Facture libellée à la mesure de protection |
 
-## Le respect de la personne protégée, d'abord
+## Le Respect de la Personne Protégée, d'Abord
 
 Une mesure de protection ne retire pas à la personne son droit au respect de
 son histoire et de ses biens. Notre pratique :
@@ -42,7 +42,7 @@ son histoire et de ses biens. Notre pratique :
   [insalubrité]({{ '/situations/insalubrite-logement/' | relative_url }}))
   où la honte est un obstacle majeur.
 
-## Cas fréquents
+## Cas Fréquents
 
 Remise en état pour un **maintien à domicile** ; débarras avant une
 [entrée en établissement]({{ '/situations/debarras-avant-ehpad/' | relative_url }}) ;

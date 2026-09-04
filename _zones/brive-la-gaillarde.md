@@ -14,7 +14,7 @@ la Corrèze limitrophe fait naturellement partie de notre zone d'intervention.
 Habitants, familles et professionnels du secteur de Brive peuvent compter sur
 les mêmes services, et les mêmes engagements, que dans le Périgord Noir.
 
-## Nos services dans le bassin de Brive
+## Nos Services dans le Bassin de Brive
 
 - **Débarras complet ou partiel** : appartements, maisons, caves et greniers,
   successions, départs en EHPAD ;
@@ -25,7 +25,7 @@ les mêmes services, et les mêmes engagements, que dans le Périgord Noir.
 - **remise en état avant vente ou relocation** pour particuliers, agences
   et bailleurs.
 
-## Pourquoi une entreprise de Sarlat à Brive ?
+## Pourquoi une Entreprise de Sarlat à Brive ?
 
 Parce que les situations que nous traitons trouvent peu de réponses locales à
 taille humaine : les grandes enseignes nationales envoient des équipes
@@ -38,7 +38,7 @@ d'abord, le respect de son histoire, la coordination avec les services
 sociaux, répond à un vrai besoin des CCAS, tutelles et familles du bassin de
 Brive confrontés aux situations d'habitat dégradé.
 
-## En pratique
+## En Pratique
 
 Visite gratuite sur place, devis détaillé sous 72 h, intervention sur mesure. Facturation à un tiers (tutelle, famille, organisme) possible.
 Décrivez-nous votre situation via la

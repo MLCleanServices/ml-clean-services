@@ -8,7 +8,7 @@ description: >-
   Toutes les réponses.
 ---
 
-## Prix et devis
+## Prix et Devis
 
 ### Combien coûte un débarras ou un nettoyage ?
 
@@ -36,7 +36,7 @@ organisme : la **facturation à un tiers est possible** et notre devis est
 prévu pour être transmis aux organismes et aux juges des tutelles. Voir notre
 page [Accompagnement]({{ '/prestations/accompagnement/' | relative_url }}).
 
-## Délais et déroulement
+## Délais et Déroulement
 
 ### Sous quel délai pouvez-vous intervenir ?
 
@@ -57,7 +57,7 @@ professionnels) nous confient les clés. À l'inverse, quand la personne vit
 dans le logement, sa présence et sa participation sont les bienvenues, c'est
 même le cœur de notre approche.
 
-## Le sort des objets
+## Le Sort des Objets
 
 ### Que deviennent les meubles et objets débarrassés ?
 
@@ -78,7 +78,7 @@ Nous ne sommes pas brocanteurs : nous ne rachetons pas d'objets. En revanche,
 si des objets de valeur sont identifiés lors de la visite, nous vous le
 signalons, libre à vous de les faire estimer avant le débarras.
 
-## Confidentialité et respect
+## Confidentialité et Respect
 
 ### L'intervention est-elle discrète ?
 
@@ -92,7 +92,7 @@ Jamais. Notre équipe est formée aux situations de fragilité, syndrome de
 Diogène, incurie, syllogomanie. Aucun logement ne nous choque. Notre règle :
 la personne d'abord, son histoire respectée, son rythme accepté.
 
-## Zone et interlocuteurs
+## Zone et Interlocuteurs
 
 ### Où intervenez-vous ?
 

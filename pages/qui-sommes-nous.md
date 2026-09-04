@@ -35,7 +35,7 @@ C'est pourquoi nous travaillons en lien étroit avec les CCAS, les services
 sociaux et les associations du territoire. Notre objectif : **que le nettoyage
 serve un projet de vie.**
 
-## L'équipe fondatrice
+## L'Équipe Fondatrice
 
 ### Laurent
 
@@ -51,7 +51,7 @@ désinfection, réorganisation des espaces de vie de chacun.
 
 <p class="citation-signature">« Notre complémentarité saura répondre, sur mesure, à votre besoin. »<br>Laurent &amp; Magalie</p>
 
-## Nos valeurs
+## Nos Valeurs
 
 {% include valeurs.html %}
 

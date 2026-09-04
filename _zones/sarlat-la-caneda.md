@@ -15,7 +15,7 @@ maison de ville dans le secteur sauvegardé, nettoyage d'un appartement,
 remise en état d'une longère dans une commune du Sarladais : nous connaissons
 le territoire, ses logements, et ses habitants.
 
-## Une entreprise d'ici, pour les gens d'ici
+## Une Entreprise d'Ici, pour les Gens d'Ici
 
 Être une entreprise locale change tout dans notre métier :
 
@@ -26,7 +26,7 @@ le territoire, ses logements, et ses habitants.
 - **le suivi est réel** : nous repassons, nous restons joignables, nous
   sommes là dans la durée.
 
-## Nos interventions à Sarlat et dans le Sarladais
+## Nos Interventions à Sarlat et dans le Sarladais
 
 Nous intervenons en maison, appartement et dépendances, à Sarlat même et dans
 les communes alentour, Salignac-Eyvigues, Saint-Geniès, Carsac-Aillac,
@@ -39,7 +39,7 @@ saisonnière, situations d'incurie ou de syndrome de Diogène signalées par les
 proches ou les services sociaux, et nettoyage de maintien à domicile pour les
 personnes âgées.
 
-## Comment nous solliciter ?
+## Comment nous Solliciter ?
 
 Un appel ou un message via la [page contact]({{ '/contact/' | relative_url }}) :
 nous convenons d'une visite gratuite, puis vous recevez un devis détaillé sous

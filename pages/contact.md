@@ -24,11 +24,11 @@ sous 72 h**, sans engagement.
 
 </div>
 
-## Ou par le formulaire
+## Ou par le Formulaire
 
 {% include form-devis.html origine="page-contact" %}
 
-## Et ensuite ?
+## Et Ensuite ?
 
 1. **Nous vous rappelons** pour comprendre la situation et convenir d'une visite.
 2. **Visite gratuite sur place**, sans engagement, en toute discrétion.

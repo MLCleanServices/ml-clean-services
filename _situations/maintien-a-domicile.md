@@ -16,7 +16,7 @@ dégrade doucement, jusqu'au jour où la question du placement se pose. Notre
 conviction d'entreprise sociale et solidaire : **un logement entretenu permet
 de rester chez soi plus longtemps.**
 
-## En quoi est-ce différent d'une aide-ménagère ?
+## En quoi est-ce Différent d'une Aide-ménagère ?
 
 Les aides à domicile assurent l'entretien courant, et font un travail
 essentiel. Nous intervenons **en complément**, là où leurs moyens s'arrêtent :
@@ -31,7 +31,7 @@ essentiel. Nous intervenons **en complément**, là où leurs moyens s'arrêtent
 - **interventions après un incident** : dégât, incontinence, animal,
   nourriture oubliée.
 
-## Comment ça se passe ?
+## Comment ça se Passe ?
 
 Nous commençons toujours par une **visite gratuite**, si possible avec la
 personne et un proche ou l'intervenant social qui la suit. Ensemble, nous
@@ -39,7 +39,7 @@ définissons ce qui doit être fait, en respectant les habitudes et les objets
 auxquels la personne tient. Puis nous convenons d'un rythme : intervention
 ponctuelle, trimestrielle, ou à la demande.
 
-## Un travail d'équipe avec les acteurs du territoire
+## Un Travail d'Équipe avec les Acteurs du Territoire
 
 Nous travaillons en lien avec les CCAS, les services d'aide à domicile,
 les familles et les tutelles. Si nous constatons une évolution préoccupante

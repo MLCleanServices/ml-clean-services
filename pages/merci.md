@@ -6,7 +6,7 @@ sitemap: false
 description: "Votre demande a bien été envoyée à ML Clean Services."
 ---
 
-## Votre demande a bien été envoyée ✓
+## Votre Demande a Bien Été Envoyée ✓
 
 Merci de votre confiance. Votre message vient d'arriver dans notre boîte
 mail : **nous vous recontactons rapidement** pour convenir d'une visite

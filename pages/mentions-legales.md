@@ -9,7 +9,7 @@ sitemap: false
 <!-- À COMPLÉTER : l'ensemble des informations ci-dessous sont à confirmer
      avec ML Clean Services avant mise en ligne publique. -->
 
-## Éditeur du site
+## Éditeur du Site
 
 **ML Clean Services**, société par actions simplifiée (SAS)
 Capital social : <!-- À COMPLÉTER --> €
@@ -28,13 +28,13 @@ Ce site est hébergé par :
 **GitHub, Inc.**, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107,
 États-Unis, [github.com](https://github.com)
 
-## Propriété intellectuelle
+## Propriété Intellectuelle
 
 L'ensemble des contenus de ce site (textes, images, logo, charte graphique)
 est la propriété de ML Clean Services, sauf mention contraire. Toute
 reproduction sans autorisation préalable est interdite.
 
-## Données personnelles
+## Données Personnelles
 
 Les informations transmises via le formulaire de contact servent uniquement à
 traiter votre demande et ne sont ni cédées ni utilisées à des fins

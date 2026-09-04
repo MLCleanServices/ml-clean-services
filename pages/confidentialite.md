@@ -8,36 +8,36 @@ sans_cta: true
 Cette page explique comment ML Clean Services traite les données que vous
 nous confiez, notamment via le formulaire de demande de devis de ce site.
 
-## Qui est responsable du traitement ?
+## Qui est Responsable du Traitement ?
 
 ML Clean Services, SAS.<!-- À COMPLÉTER : siège social, SIRET (voir mentions légales) -->
 Contact : {% if site.data.contact.email != "" %}[{{ site.data.contact.email }}](mailto:{{ site.data.contact.email }}){% endif %}
 
-## Quelles données collectons-nous ?
+## Quelles Données Collectons-nous ?
 
 Uniquement les informations que vous saisissez volontairement dans le
 formulaire de contact : nom, téléphone, email, commune, profil, besoin et
 message. Aucune autre donnée n'est collectée à votre insu.
 
-## Pourquoi ces données sont-elles collectées ?
+## Pourquoi ces Données Sont-elles Collectées ?
 
 Exclusivement pour traiter votre demande et vous répondre. Elles ne sont
 jamais partagées, revendues ni utilisées à des fins commerciales ou de
 prospection.
 
-## Qui a accès à ces données ?
+## Qui a Accès à ces Données ?
 
 ML Clean Services est seule destinataire du contenu de votre message. Le
 formulaire est acheminé techniquement par le prestataire Formspree, qui
 héberge la soumission le temps de sa transmission par email ; aucune autre
 société tierce n'y a accès.
 
-## Combien de temps sont-elles conservées ?
+## Combien de Temps Sont-elles Conservées ?
 
 Le temps nécessaire au traitement de votre demande, puis à nos obligations
 légales et comptables le cas échéant.<!-- À COMPLÉTER : durée de conservation exacte si vous en avez une -->
 
-## Vos droits
+## Vos Droits
 
 Conformément au Règlement Général sur la Protection des Données (RGPD), vous
 disposez d'un droit d'accès, de rectification, d'effacement et d'opposition

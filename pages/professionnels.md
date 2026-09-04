@@ -15,7 +15,7 @@ Services est conçue pour travailler **avec** vous : une entreprise de
 l'Économie Sociale et Solidaire, dont l'un des fondateurs est Éducateur
 Spécialisé de métier.
 
-## À qui s'adresse cet espace ?
+## À qui s'Adresse cet Espace ?
 
 - **CCAS, Services Sociaux du Département, MSA** : assistantes de service social.
 - **Mandataires Judiciaires**, tutelles et curatelles
@@ -23,7 +23,7 @@ Spécialisé de métier.
 - **Notaires, Huissiers, Agents Immobiliers et Bailleurs** (remise en état de biens)
 - **Associations de Logement, Communautés de Communes et Mairie**
 
-## Nos engagements envers les prescripteurs
+## Nos Engagements envers les Prescripteurs
 
 | Engagement | Concrètement |
 |---|---|
@@ -34,7 +34,7 @@ Spécialisé de métier.
 | **Compte rendu d'intervention** | Possibilité d'établir et de suivre le processus d'intervention : contrat moral, compte rendu, suivi |
 | **Interlocuteur unique** | Du premier appel au suivi post-intervention |
 
-## Une approche compatible avec votre déontologie
+## Une Approche Compatible avec votre Déontologie
 
 Nous savons qu'une intervention au domicile d'une personne fragile ne
 s'improvise pas :
@@ -52,7 +52,7 @@ Notre conviction rejoint la vôtre : le nettoyage n'est pas une fin en soi,
 c'est **un levier dans un projet d'accompagnement**, maintien à domicile,
 sortie d'insalubrité, apaisement d'une situation familiale.
 
-## Situations fréquemment traitées
+## Situations Fréquemment Traitées
 
 Syndrome de Diogène et syllogomanie (accumulation compulsive), incurie,
 logements insalubres, débarras après décès ou entrée en établissement, remise
@@ -60,7 +60,7 @@ en état avant relocation. Retrouvez le détail
 dans [nos prestations]({{ '/prestations/accompagnement/' | relative_url }}) et
 nos pages par situation.
 
-## Parlons de votre dossier
+## Parlons de votre Dossier
 
 Décrivez-nous la situation en quelques lignes : nous vous rappelons rapidement
 pour organiser une visite d'évaluation.

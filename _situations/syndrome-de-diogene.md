@@ -16,7 +16,7 @@ entretien, souvent en lien avec un isolement social important. Ce n'est **ni
 de la paresse, ni un choix** : c'est une situation de souffrance, qui demande
 une réponse à la fois professionnelle et profondément humaine.
 
-## Reconnaître la situation
+## Reconnaître la Situation
 
 Quelques signes fréquents, souvent constatés par la famille, les voisins ou
 les intervenants à domicile :
@@ -31,7 +31,7 @@ les intervenants à domicile :
 Si vous reconnaissez un proche ou une personne que vous accompagnez, sachez
 qu'**il existe une issue**, et qu'elle ne passe pas par la contrainte.
 
-## Notre approche : la personne d'abord
+## Notre Approche : la Personne d'Abord
 
 Vider et nettoyer « de force » un logement Diogène est presque toujours un
 échec : la situation se réinstalle. Notre méthode est différente :
@@ -48,13 +48,13 @@ Vider et nettoyer « de force » un logement Diogène est presque toujours un
    possibilité d'un entretien régulier pour éviter la rechute, en lien avec
    les aides à domicile.
 
-## Discrétion et dignité garanties
+## Discrétion et Dignité Garanties
 
 Nous savons la honte que ces situations peuvent générer. Notre équipe
 intervient sans jugement et avec discrétion vis-à-vis du voisinage. La
 confidentialité des informations est absolue.
 
-## Qui peut faire appel à nous ?
+## Qui Peut Faire Appel à nous ?
 
 La personne elle-même, sa famille, mais aussi les CCAS, travailleurs sociaux,
 tutelles et curatelles, EHPAD et hôpitaux : nous avons l'habitude de travailler

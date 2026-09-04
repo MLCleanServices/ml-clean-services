@@ -16,7 +16,7 @@ années, déchets organiques, sanitaires hors d'usage, odeurs imprégnées dans
 les murs. C'est ce qu'on appelle le nettoyage extrême, et c'est l'un de nos
 cœurs de métier.
 
-## Quand parle-t-on de nettoyage extrême ?
+## Quand Parle-t-on de Nettoyage Extrême ?
 
 - Un logement qui n'a pas été entretenu depuis des années ;
 - des déchets ou denrées en décomposition ;
@@ -26,7 +26,7 @@ cœurs de métier.
   de [syndrome de Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }})
   ou d'[insalubrité]({{ '/situations/insalubrite-logement/' | relative_url }}).
 
-## Notre méthode
+## Notre Méthode
 
 1. **Évaluation sur place, gratuite** : nous mesurons l'ampleur réelle du
    chantier, c'est indispensable pour un devis juste.
@@ -41,7 +41,7 @@ cœurs de métier.
 Notre équipe intervient équipée (protections, matériel adapté) et **en toute
 discrétion** vis-à-vis du voisinage.
 
-## Après le nettoyage
+## Après le Nettoyage
 
 Selon le projet, le logement peut être réinvesti par son occupant, remis en
 location ou préparé pour une vente. Nous pouvons également mettre en place un

@@ -22,7 +22,7 @@ remettre en location, une situation d'accumulation devenue ingérable. Notre
 métier est de gérer la partie matérielle **pour que vous puissiez vous
 concentrer sur l'essentiel**.
 
-## Ce que nous prenons en charge
+## Ce que nous Prenons en Charge
 
 - **Débarras complet** : la totalité du logement est vidée, meubles,
   électroménager, effets personnels, cave, grenier, dépendances.
@@ -34,7 +34,7 @@ concentrer sur l'essentiel**.
 - **Gestion administrative** : nous pouvons trier et organiser une
   accumulation de courriers et de documents administratifs.
 
-## Notre différence : le respect de l'histoire des lieux
+## Notre Différence : le Respect de l'Histoire des Lieux
 
 Un logement qui se vide, c'est une vie qui se range. Nous trions avec soin :
 
@@ -46,12 +46,12 @@ Un logement qui se vide, c'est une vie qui se range. Nous trions avec soin :
 - le rythme de l'intervention peut être **adapté à la personne** lorsqu'elle
   est présente, en lien avec les intervenants sociaux si besoin.
 
-## Où intervenons-nous ?
+## Où Intervenons-nous ?
 
 En maison, appartement et dépendances, à Sarlat-la-Canéda et dans les
 alentours, dans un rayon d'environ une heure.
 
-## Combien ça coûte ?
+## Combien ça Coûte ?
 
 Le prix dépend du volume, de l'accessibilité du logement et de la part
 valorisable. C'est pourquoi tout commence par une **visite gratuite sur

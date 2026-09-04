@@ -14,7 +14,7 @@ notre zone d'intervention. Habitants du Quercy, familles gérant une maison à
 distance, professionnels du secteur cadurcien : nous nous déplaçons avec les
 mêmes services et les mêmes engagements que dans le Périgord Noir.
 
-## Ce que nous faisons à Cahors et dans le Quercy
+## Ce que nous Faisons à Cahors et dans le Quercy
 
 - **Débarras et vidage** : appartements du centre ancien, maisons de village,
   caves, greniers et dépendances, successions ;
@@ -25,7 +25,7 @@ mêmes services et les mêmes engagements que dans le Périgord Noir.
 - **accompagnement** : coordination avec CCAS, tutelles et familles,
   facturation à un tiers possible.
 
-## Familles éloignées : nous sommes vos yeux sur place
+## Familles Éloignées : nous Sommes vos Yeux sur Place
 
 Beaucoup de maisons du Quercy appartiennent à des familles qui vivent loin,
 et gérer à distance un débarras de succession ou la remise en état du logement

@@ -15,14 +15,14 @@ contact. Le traitement des personnes relève du **médecin**, mais pour éviter
 une recontamination, l'environnement doit être traité en même temps : literie,
 textiles, canapés, et le logement lui-même. C'est là que nous intervenons.
 
-## Pourquoi traiter le logement ?
+## Pourquoi Traiter le Logement ?
 
 Le parasite responsable de la gale peut survivre plusieurs jours hors de la
 peau, dans les textiles et la literie. Si le logement n'est pas traité pendant
 que les personnes suivent leur traitement, le cycle recommence, c'est la
 cause la plus fréquente des « rechutes ».
 
-## Notre intervention, en complément du traitement médical
+## Notre Intervention, en Complément du Traitement Médical
 
 1. **Coordination avec le calendrier médical** : le traitement de
    l'environnement doit être synchronisé avec celui des personnes. Nous nous
@@ -34,7 +34,7 @@ cause la plus fréquente des « rechutes ».
    notre équipe est **certifiée Certibiocide**.
 4. **Nettoyage complet du logement** et consignes de réintégration claires.
 
-## Situations collectives et fragiles
+## Situations Collectives et Fragiles
 
 La gale touche souvent des lieux de vie collectifs (EHPAD, foyers) et des
 personnes en situation de fragilité, où le traitement de l'environnement est
