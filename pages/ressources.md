@@ -15,9 +15,11 @@ comprendre, à agir, et à savoir quand passer le relais à des professionnels.
 <div class="grille-situations">
 {% for article in site.ressources %}
   <a class="carte-situation" href="{{ article.url | relative_url }}">
-    <h3>{{ article.title }}</h3>
-    <p>{{ article.accroche }}</p>
-    <span class="lien-fleche">Lire le guide</span>
+    <div class="carte-corps">
+      <h3>{{ article.title }}</h3>
+      <p>{{ article.accroche }}</p>
+      <span class="lien-fleche">Lire le guide</span>
+    </div>
   </a>
 {% endfor %}
 </div>
