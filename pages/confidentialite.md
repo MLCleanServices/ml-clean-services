@@ -30,9 +30,12 @@ prospection.
 ## Qui a Accès à ces Données ?
 
 ML Clean Services est seule destinataire du contenu de votre message. Le
-formulaire est acheminé techniquement par le prestataire FormSubmit, qui
-transmet la soumission par email sans la conserver ; aucune autre société
-tierce n'y a accès.
+formulaire est hébergé techniquement par le prestataire **Tally** (Tally BV,
+société belge), qui stocke les données de formulaire de façon chiffrée sur
+des serveurs situés en Union européenne, dans le cadre d'un accord de
+sous-traitance (DPA) conforme au RGPD. Certains sous-traitants secondaires de
+Tally (envoi de la notification par email, par exemple) peuvent être basés
+hors de l'UE ; ces transferts sont encadrés par ce même accord.
 
 ## Combien de Temps Sont-elles Conservées ?
 
@@ -48,4 +51,7 @@ sur vos données personnelles. Pour l'exercer, contactez-nous
 
 ## Cookies
 
-Ce site n'utilise aucun cookie de suivi ni de mesure d'audience.
+Ce site n'utilise aucun cookie de suivi ni de mesure d'audience. Seul le
+formulaire de contact, hébergé par Tally, peut déposer un cookie strictement
+nécessaire à son fonctionnement (éviter un double envoi, par exemple) ;
+aucun cookie publicitaire ou de mesure d'audience n'est utilisé.

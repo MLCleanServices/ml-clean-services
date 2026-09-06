@@ -5,12 +5,8 @@ telephone: "07 57 18 80 65"
 telephone_lien: "+33757188065"
 email: "mlcleanservices24@gmail.com"
 
-# Formulaire de devis, FormSubmit (aucun compte à créer).
-# À la toute première vraie soumission du formulaire, FormSubmit envoie un
-# email de confirmation à l'adresse ci-dessous (mlcleanservices24@gmail.com) :
-# il suffit de cliquer le lien qu'il contient pour activer définitivement
-# l'envoi des demandes suivantes. Aucune autre étape.
-formulaire_endpoint: "https://formsubmit.co/mlcleanservices24@gmail.com"
+# Le formulaire de devis est géré par Tally (voir _includes/form-devis.html),
+# se modifie directement dans Tally, pas ici.
 
 zone_courte: "Périgord Noir"
 zone: "Sarlat et alentours (rayon d'environ 1 h)"

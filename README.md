@@ -27,8 +27,8 @@ Débarras, nettoyage/désinfection et accompagnement social en Périgord Noir
 Rechercher `À REMPLACER` et `À COMPLÉTER` dans le projet :
 
 - [x] Téléphone et email (`_data/contact.yml`)
-- [x] Formulaire de devis : FormSubmit (`_data/contact.yml`), aucun compte à créer — activer en
-      cliquant le lien reçu par email à la première vraie soumission
+- [x] Formulaire de devis : Tally, intégré en iframe (`_includes/form-devis.html`) — se
+      modifie directement dans Tally (champs, options, notifications), pas dans le code
 - [ ] SIRET, siège social, capital, RCS (`pages/mentions-legales.md`)
 - [x] `url:`/`baseurl:` (`_config.yml`)
 - [x] Logo + favicon (`assets/img/`)
