@@ -267,7 +267,7 @@ section { padding: 3.5rem 0; }
   transition: box-shadow .15s, transform .15s;
 }
 .carte-situation:hover { box-shadow: var(--ombre-forte); transform: translateY(-3px); color: var(--texte); }
-.carte-situation .carte-corps { padding: 1.6rem; }
+.carte-situation .carte-corps { padding: 2rem; }
 .carte-situation h3 { margin: 0 0 0.4rem; color: var(--bleu-nuit); }
 .carte-situation p { font-size: 0.93rem; margin: 0 0 0.75rem; }
 .carte-situation .lien-fleche { margin-top: auto; color: var(--bleu); }
