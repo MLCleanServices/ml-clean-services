@@ -1,0 +1,293 @@
+#
+# Configuration Pages CMS (app.pagescms.org) — ML Clean Services
+# Permet au client de modifier les textes et photos du site sans toucher au code.
+# Les fichiers techniques (menu, réglages Jekyll, styles) ne sont volontairement
+# pas exposés ici : ils restent gérés par la personne qui maintient le site.
+#
+
+media:
+  input: assets/img
+  output: /assets/img
+
+content:
+  # ───────────────────────── Collections ─────────────────────────
+
+  - name: prestations
+    label: "Prestations (3 pôles)"
+    type: collection
+    path: _prestations
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields: [title, ordre]
+      primary: title
+      sort: [ordre]
+      default: { sort: ordre, order: asc }
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - name: ordre
+        label: "Ordre d'affichage"
+        type: number
+        required: true
+        description: "1, 2 ou 3 : détermine l'ordre des 3 cartes sur la page d'accueil."
+      - { name: image, label: "Photo", type: image }
+      - { name: accroche, label: "Accroche (courte phrase d'intro)", type: text, options: { rows: 2 } }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - name: points
+        label: "Points clés (liste à puces, page d'accueil)"
+        type: string
+        list: true
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: situations
+    label: "Situations traitées"
+    type: collection
+    path: _situations
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields: [title, pole]
+      primary: title
+      sort: [title]
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - name: pole
+        label: "Pôle associé"
+        type: select
+        required: true
+        options:
+          - { label: "Débarras & vidage", value: debarras-vidage }
+          - { label: "Nettoyage & désinfection", value: nettoyage-desinfection }
+          - { label: "Accompagnement", value: accompagnement }
+      - { name: accroche, label: "Accroche (courte phrase d'intro)", type: text, options: { rows: 2 } }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: zones
+    label: "Zones d'intervention"
+    type: collection
+    path: _zones
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields: [title]
+      primary: title
+      sort: [title]
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: accroche, label: "Accroche (courte phrase d'intro)", type: text, options: { rows: 2 } }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: ressources
+    label: "Guides & conseils"
+    type: collection
+    path: _ressources
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields: [title]
+      primary: title
+      sort: [title]
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: accroche, label: "Accroche (courte phrase d'intro)", type: text, options: { rows: 2 } }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  # ───────────────────────── Page d'accueil ─────────────────────────
+
+  - name: accueil
+    label: "Page d'accueil"
+    type: file
+    path: index.html
+    format: yaml-frontmatter
+    fields:
+      - { name: layout, type: string, hidden: true, default: home }
+      - { name: title, label: "Titre pour Google (invisible sur le site)", type: string, required: true }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: hero_texte, label: "Texte d'introduction (sous le grand titre)", type: text, options: { rows: 4 } }
+      - name: faq
+        label: "Questions fréquentes (bas de page d'accueil)"
+        type: object
+        list: true
+        fields:
+          - { name: question, label: "Question", type: string, required: true }
+          - { name: reponse, label: "Réponse", type: text, options: { rows: 3 }, required: true }
+
+  # ───────────────────────── Pages fixes ─────────────────────────
+
+  - name: page-qui-sommes-nous
+    label: "Page : Qui sommes-nous"
+    type: file
+    path: pages/qui-sommes-nous.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /qui-sommes-nous/ }
+      - { name: sous_titre, label: "Sous-titre (sous le grand titre)", type: string }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-professionnels
+    label: "Page : Espace professionnels"
+    type: file
+    path: pages/professionnels.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /professionnels/ }
+      - { name: sous_titre, label: "Sous-titre (sous le grand titre)", type: string }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: sans_cta, type: boolean, hidden: true, default: true }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-contact
+    label: "Page : Contact & devis"
+    type: file
+    path: pages/contact.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /contact/ }
+      - { name: sous_titre, label: "Sous-titre (sous le grand titre)", type: string }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: sans_cta, type: boolean, hidden: true, default: true }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-faq
+    label: "Page : Questions fréquentes"
+    type: file
+    path: pages/faq.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /faq/ }
+      - { name: sous_titre, label: "Sous-titre (sous le grand titre)", type: string }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-zones
+    label: "Page : Zones d'intervention (introduction)"
+    type: file
+    path: pages/zones.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /zones/ }
+      - { name: sous_titre, label: "Sous-titre (sous le grand titre)", type: string }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-ressources
+    label: "Page : Ressources & conseils (introduction)"
+    type: file
+    path: pages/ressources.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /ressources/ }
+      - { name: sous_titre, label: "Sous-titre (sous le grand titre)", type: string }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-mentions-legales
+    label: "Page : Mentions légales"
+    type: file
+    path: pages/mentions-legales.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /mentions-legales/ }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: sans_cta, type: boolean, hidden: true, default: true }
+      - { name: sitemap, type: boolean, hidden: true, default: false }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-confidentialite
+    label: "Page : Politique de confidentialité"
+    type: file
+    path: pages/confidentialite.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /confidentialite/ }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: sans_cta, type: boolean, hidden: true, default: true }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  - name: page-merci
+    label: "Page : Merci (après envoi du formulaire)"
+    type: file
+    path: pages/merci.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: "Titre", type: string, required: true }
+      - { name: permalink, type: string, hidden: true, default: /merci/ }
+      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
+      - { name: sans_cta, type: boolean, hidden: true, default: true }
+      - { name: sitemap, type: boolean, hidden: true, default: false }
+      - { name: body, label: "Texte de la page", type: rich-text }
+
+  # ───────────────────────── Données du site ─────────────────────────
+
+  - name: coordonnees
+    label: "Coordonnées de contact"
+    type: file
+    path: _data/contact.yml
+    format: yaml
+    fields:
+      - name: telephone
+        label: "Téléphone (affiché sur le site)"
+        type: string
+        required: true
+        description: "Format lisible, ex. : 07 57 18 80 65"
+      - name: telephone_lien
+        label: "Téléphone (format international, pour le bouton cliquable)"
+        type: string
+        required: true
+        description: "Ex. : +33757188065, sans espace ni tiret"
+      - { name: email, label: "Email de contact", type: string, required: true }
+      - { name: zone_courte, label: "Zone d'intervention (version courte)", type: string }
+      - { name: zone, label: "Zone d'intervention (description complète)", type: string }
+
+  - name: contenu-social
+    label: "Chiffres, valeurs, étapes (page d'accueil)"
+    type: file
+    path: _data/social_proof.yml
+    format: yaml
+    fields:
+      - name: chiffres
+        label: "3 engagements chiffrés (bandeau sous le grand titre)"
+        type: object
+        list: true
+        fields:
+          - { name: titre, label: "Titre court", type: string, required: true }
+          - { name: detail, label: "Détail", type: string, required: true }
+      - name: valeurs
+        label: "Nos 5 valeurs"
+        type: object
+        list: true
+        fields:
+          - { name: nom, label: "Nom de la valeur", type: string, required: true }
+          - { name: description, label: "Description", type: text, options: { rows: 2 }, required: true }
+      - name: etapes
+        label: "Les 4 étapes (« Comment ça se passe »)"
+        type: object
+        list: true
+        fields:
+          - { name: titre, label: "Titre", type: string, required: true }
+          - { name: description, label: "Description", type: string, required: true }
+          - { name: icone, label: "Icône", type: image }
+      - name: publics
+        label: "Pour qui (3 profils, page d'accueil)"
+        type: object
+        list: true
+        fields:
+          - { name: icone, label: "Icône", type: image }
+          - { name: texte, label: "Texte", type: text, options: { rows: 2 }, required: true }
+      - name: evenements
+        label: "Événements de vie concernés (liste, page d'accueil)"
+        type: string
+        list: true
+      - { name: types_lieux, label: "Types de lieux desservis", type: string }
