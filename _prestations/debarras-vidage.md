@@ -1,21 +1,19 @@
 ---
-title: "Débarrasser & Trier le Logement"
+title: Débarrasser & Trier le Logement
 ordre: 1
-image: /assets/img/photo-debarras.jpg
-accroche: >-
-  Vider une maison ou un appartement, entièrement ou en partie, en prenant
-  soin de ce qui compte : les souvenirs, les documents, les objets de valeur.
-description: >-
-  Débarras complet ou partiel de maison et d'appartement à Sarlat et
+image: /assets/img/debarras-dordogne.jpg
+accroche: "Vider une maison ou un appartement, entièrement ou en partie, en
+  prenant soin de ce qui compte : les souvenirs, les documents, les objets de
+  valeur."
+description: "Débarras complet ou partiel de maison et d'appartement à Sarlat et
   alentours, en Périgord Noir : tri sélectif, don et réemploi, gestion
-  administrative. Devis gratuit sous 72 h.
+  administrative. Devis gratuit sous 72 h."
 points:
   - Débarras complet ou partiel
   - Réorganisation des espaces
   - Tri sélectif, dons, recyclage, déchetterie
   - Gestion administrative et financière si besoin
 ---
-
 Vider un logement n'est jamais un geste anodin. Derrière chaque débarras, il y a
 une histoire : un départ en maison de retraite, une succession, un logement à
 remettre en location, une situation d'accumulation devenue ingérable. Notre
@@ -25,26 +23,26 @@ concentrer sur l'essentiel**.
 ## Ce que nous Prenons en Charge
 
 - **Débarras complet** : la totalité du logement est vidée, meubles,
-  électroménager, effets personnels, cave, grenier, dépendances.
+électroménager, effets personnels, cave, grenier, dépendances.
 - **Débarras partiel** : seules certaines pièces ou certains volumes sont
-  concernés, selon vos besoins et votre budget.
+concernés, selon vos besoins et votre budget.
 - **Tri sélectif systématique** : rien ne part « en vrac ». Les objets en bon
-  état sont orientés vers les filières locales de don et de réemploi, les
-  matériaux recyclables vers le recyclage, le reste vers la déchetterie.
+état sont orientés vers les filières locales de don et de réemploi, les
+matériaux recyclables vers le recyclage, le reste vers la déchetterie.
 - **Gestion administrative** : nous pouvons trier et organiser une
-  accumulation de courriers et de documents administratifs.
+accumulation de courriers et de documents administratifs.
 
 ## Notre Différence : le Respect de l'Histoire des Lieux
 
 Un logement qui se vide, c'est une vie qui se range. Nous trions avec soin :
 
 - les **documents importants** (papiers d'identité, actes, factures, courriers
-  officiels) sont systématiquement mis de côté et remis à la personne, à sa
-  famille ou à son représentant légal ;
+officiels) sont systématiquement mis de côté et remis à la personne, à sa
+famille ou à son représentant légal ;
 - les **objets de valeur et souvenirs** (photos, bijoux, objets personnels)
-  sont recherchés et préservés, jamais jetés par défaut ;
+sont recherchés et préservés, jamais jetés par défaut ;
 - le rythme de l'intervention peut être **adapté à la personne** lorsqu'elle
-  est présente, en lien avec les intervenants sociaux si besoin.
+est présente, en lien avec les intervenants sociaux si besoin.
 
 ## Où Intervenons-nous ?
 
