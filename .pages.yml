@@ -39,29 +39,10 @@ content:
         list: true
       - { name: body, label: "Texte de la page", type: rich-text }
 
-  - name: situations
-    label: "Situations traitées"
-    type: collection
-    path: _situations
-    format: yaml-frontmatter
-    filename: "{primary}.md"
-    view:
-      fields: [title, pole]
-      primary: title
-      sort: [title]
-    fields:
-      - { name: title, label: "Titre", type: string, required: true }
-      - name: pole
-        label: "Pôle associé"
-        type: select
-        required: true
-        options:
-          - { label: "Débarras & vidage", value: debarras-vidage }
-          - { label: "Nettoyage & désinfection", value: nettoyage-desinfection }
-          - { label: "Accompagnement", value: accompagnement }
-      - { name: accroche, label: "Accroche (courte phrase d'intro)", type: text, options: { rows: 2 } }
-      - { name: description, label: "Description pour Google (invisible sur le site)", type: text, options: { rows: 3 } }
-      - { name: body, label: "Texte de la page", type: rich-text }
+  # « situations » (_situations/) volontairement absente du CMS : ces 16 fiches
+  # existent dans le dépôt mais sont dépubliées (published: false dans
+  # _config.yml), hors devis actuel. Rien à modifier tant qu'elles ne sont pas
+  # activées ; les exposer ici ne ferait que prêter à confusion.
 
   - name: zones
     label: "Zones d'intervention"
