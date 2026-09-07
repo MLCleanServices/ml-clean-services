@@ -1,20 +1,18 @@
 ---
-title: "Nettoyage & Désinfection"
+title: Nettoyage & Désinfection
 ordre: 2
-image: /assets/img/photo-nettoyage.jpg
-accroche: >-
-  Remettre un logement en état, du nettoyage de fond à la désinfection
+image: /assets/img/nettoyage-logement-dordogne.jpg
+accroche: Remettre un logement en état, du nettoyage de fond à la désinfection
   complète, pour qu'il redevienne sain, sûr et habitable.
-description: >-
-  Nettoyage de fond, remise en état et désinfection de logements en Périgord
-  Noir : après syndrome de Diogène, insalubrité, ou en maintien à domicile.
-  Intervention discrète et respectueuse, devis gratuit sous 72 h.
+description: "Nettoyage de fond, remise en état et désinfection de logements en
+  Périgord Noir : après syndrome de Diogène, insalubrité, ou en maintien à
+  domicile. Intervention discrète et respectueuse, devis gratuit sous 72 h."
 points:
   - Traitement des nuisibles, « Certibiocide Nuisibles »
   - Désinfection, « Certibiocide Désinfectant »
-  - Nettoyage approfondi, produits ÉCO respectueux de la santé et de l'environnement
+  - Nettoyage approfondi, produits ÉCO respectueux de la santé et de
+    l'environnement
 ---
-
 Un logement très dégradé ne se nettoie pas comme un logement ordinaire. Il faut
 du matériel adapté, des protocoles rigoureux, et surtout une approche humaine,
 car derrière un logement en souffrance, il y a presque toujours **une personne
@@ -36,10 +34,7 @@ profondeur avec produit Ecocert, Certibiocide désinfectant, Certibiocide
 nuisible. Nous intervenons méthodiquement, pièce par pièce, jusqu'à ce que le
 logement soit **assaini et de nouveau habitable**.
 
-<figure class="visuel-certification">
-  <img src="{{ '/assets/img/certibiocide-logo.jpg' | relative_url }}"
-       alt="Certification Certibiocide" width="385" height="213" loading="lazy">
-</figure>
+![Certification Certibiocide](<{{ '/assets/img/certibiocide-logo.jpg' | relative_url }}>)
 
 ### Nettoyage adapté
 
@@ -51,10 +46,10 @@ les services sociaux, pour éviter que la situation ne se dégrade à nouveau.
 ## Une Intervention Toujours Digne et Discrète
 
 - Aucun jugement, jamais : notre équipe est sensibilisée aux situations de
-  fragilité et intervient avec tact.
+fragilité et intervient avec tact.
 - Discrétion vis-à-vis du voisinage.
 - Quand la personne vit dans le logement, nous adaptons le déroulement pour
-  qu'elle reste actrice de la remise en état de son lieu de vie.
+qu'elle reste actrice de la remise en état de son lieu de vie.
 
 ## Déroulement et Tarif
 
