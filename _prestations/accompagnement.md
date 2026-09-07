@@ -1,20 +1,18 @@
 ---
-title: "Accompagnement"
+title: Accompagnement
 ordre: 3
-image: /assets/img/photo-accompagnement.jpg
-accroche: >-
-  Plus qu'un prestataire : un partenaire qui coordonne l'intervention avec
-  les familles, les CCAS, les tutelles et les services sociaux.
-description: >-
-  Accompagnement social autour du débarras et du nettoyage de logement en
-  Périgord Noir : coordination avec CCAS, tutelles et familles, devis sous
-  72 h, intervention sur mesure, facturation à un tiers possible.
+image: /assets/img/accompagnement-diogene-dordogne.jpg
+accroche: "Plus qu'un prestataire : un partenaire qui coordonne l'intervention
+  avec les familles, les CCAS, les tutelles et les services sociaux."
+description: "Accompagnement social autour du débarras et du nettoyage de
+  logement en Périgord Noir : coordination avec CCAS, tutelles et familles,
+  devis sous 72 h, intervention sur mesure, facturation à un tiers possible."
 points:
   - Coordination avec les familles et les travailleurs sociaux prescripteurs
-  - Mise en lien et en confiance avec le client bénéficiaire, avant et pendant l'intervention
+  - Mise en lien et en confiance avec le client bénéficiaire, avant et pendant
+    l'intervention
   - Devis gratuit et rapide sous 72 h
 ---
-
 C'est ce qui fait de ML Clean Services une entreprise sociale, pas comme les
 autres : chez nous, **le nettoyage sert un projet de vie**. Un logement remis
 en état n'est pas une fin en soi, c'est un maintien à domicile rendu possible,
@@ -36,19 +34,21 @@ aide à domicile, parfois bailleur. Nous nous inscrivons dans ce réseau :
 
 - **Un interlocuteur unique** du premier contact au suivi post-intervention.
 - **Coordination avec les CCAS, les tutelles et les familles** : nous
-  organisons l'intervention avec toutes les parties, à un rythme acceptable
-  pour la personne concernée.
+organisons l'intervention avec toutes les parties, à un rythme acceptable
+pour la personne concernée.
 - **Compte rendu d'intervention** pour les prescripteurs.
 - **Suivi** : des entretiens réguliers peuvent être proposés pour organiser
-  le suivi, afin d'éviter que la situation initiale ne se réinstalle.
+le suivi, afin d'éviter que la situation initiale ne se réinstalle.
 
 ## Des Engagements Pensés pour les Prescripteurs
 
+
 | Engagement | Concrètement |
-|---|---|
+| ----------------------- | ----------------------------------------------------------------------------- |
 | Devis sous 72 h | Gratuit, après visite sur place, format transmissible à votre organisme |
 | Intervention sur mesure | Après validation du devis |
 | Facturation à un tiers | Tutelle, famille, organisme : nous nous adaptons au montage de chaque dossier |
+
 
 Vous êtes travailleur social, mandataire judiciaire ou professionnel ?
 Consultez notre [espace professionnels]({{ '/professionnels/' | relative_url }}), pensé pour vous.
