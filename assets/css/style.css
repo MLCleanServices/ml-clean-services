@@ -199,9 +199,13 @@ section { padding: 3.5rem 0; }
 .mission-paysage { margin: 1.5rem 0; }
 .mission-paysage img { width: 100%; height: auto; display: block; border-radius: var(--rayon); }
 
-/* Logo de certification (Certibiocide…) inséré dans un article/prestation */
-.visuel-certification { margin: 1.5rem 0; text-align: center; }
-.visuel-certification img { max-width: 220px; width: 100%; height: auto; display: inline-block; }
+/* Logo de certification (Certibiocide…) inséré dans un article/prestation.
+   Ciblé par son nom de fichier (pas par une balise autour) : l'éditeur du CMS
+   réécrit le texte en Markdown simple et perd tout wrapper HTML ajouté à la
+   main, ce sélecteur survit donc à une modification faite depuis le CMS. */
+.contenu-page img[src*="certibiocide-logo"] {
+  display: block; margin: 1.5rem auto; max-width: 220px; width: 100%; height: auto;
+}
 
 /* Avant / après */
 .bloc-avant-apres { background: var(--fond); }
