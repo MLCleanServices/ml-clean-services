@@ -6,10 +6,8 @@
   à partir du front-matter de chaque page. {%- endcomment -%}
   {% seo %}
 
-  {%- comment -%} Seule la calligraphie des titres est chargée : le texte courant est en Helvetica {%- endcomment -%}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
+  {%- comment -%} La calligraphie des titres (Style Script) est auto-hébergée dans
+  style.css (@font-face) : aucune requête vers Google au chargement de la page. {%- endcomment -%}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/img/favicon.png' | relative_url }}">

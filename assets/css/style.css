@@ -3,6 +3,16 @@
    Charte issue de la plaquette : bleu nuit, bleu, vert nature.
    ═══════════════════════════════════════════════════════════ */
 
+/* Calligraphie des titres, hébergée sur le site (pas Google Fonts) :
+   aucune requête vers un serveur tiers au chargement de la page. */
+@font-face {
+  font-family: "Style Script";
+  src: url("../fonts/style-script.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   /* Couleurs de la charte */
   --bleu-nuit: #1c3a5e;      /* header, footer, titres */
