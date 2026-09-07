@@ -68,6 +68,11 @@ defaults:
       path: ""
     values:
       layout: page
+      # Image de partage par défaut (WhatsApp, Facebook, LinkedIn…) : le
+      # réglage global "image:" plus haut n'est pas fiable sur le build
+      # "legacy" de GitHub Pages, ce défaut par front-matter, lui, marche.
+      # Les 3 pages prestations ont leur propre "image:" qui prime dessus.
+      image: /assets/img/og-image.jpg
 
 sass:
   style: compressed
