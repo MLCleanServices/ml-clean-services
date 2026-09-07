@@ -1,11 +1,10 @@
 ---
-title: "Mentions légales"
+title: Mentions légales
 permalink: /mentions-legales/
-description: "Mentions légales du site ML Clean Services."
+description: Mentions légales du site ML Clean Services.
 sans_cta: true
 sitemap: false
 ---
-
 ## Éditeur du Site
 
 Le présent site est édité par :
@@ -14,8 +13,8 @@ Le présent site est édité par :
 Siège social : 484 route du Coderc, 24200 Carsac-Aillac
 SIRET : 106 724 412 00015
 RCS : Bergerac 106 724 412
-N° TVA intracommunautaire : FR13 106724412 <!-- calculé à partir du SIREN, à vérifier -->
-Capital social : <!-- À COMPLÉTER, si vous souhaitez le publier -->
+N° TVA intracommunautaire : FR13 106724412 
+Capital social : 
 
 Directrice de la publication : Magalie Gabriel
 
@@ -56,11 +55,10 @@ conservation, vos droits) est présenté dans notre
 
 ## Exercice de vos Droits
 
-Conformément au RGPD, vous disposez d'un droit d'accès, de rectification,
-d'effacement et d'opposition sur vos données. Pour l'exercer, contactez-nous
-à l'adresse ci-dessus, en précisant votre demande. Vous pouvez également
-introduire une réclamation auprès de la
-[CNIL](https://www.cnil.fr/) si vous estimez que le traitement de vos
+Conformément au RGPD, vous disposez d'un droit d'accès, de rectification,  
+d'effacement et d'opposition sur vos données. Pour l'exercer, contactez-nous  
+à l'adresse ci-dessus, en précisant votre demande. Vous pouvez également  
+introduire une réclamation auprès de la [CNIL](https://www.cnil.fr/) si vous estimez que le traitement de vos
 données n'est pas conforme à la réglementation.
 
 ## Cookies
@@ -70,5 +68,4 @@ Ce site n'utilise aucun cookie de suivi ni de mesure d'audience. Voir la
 
 ## Crédits
 
-Photographies : <!-- À COMPLÉTER : crédits photos -->
-Conception du site : Laetitia Miguez, assistante virtuelle.
+Photographies :  certaines photographies illustrant ce site sont générées par intelligence artificielle, à but illustratif.
