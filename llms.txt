@@ -1,0 +1,35 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# ML Clean Services
+
+> Entreprise de l'économie sociale et solidaire (SAS) spécialisée dans le débarras, le nettoyage/désinfection et l'accompagnement social de logements, à Sarlat-la-Canéda et dans le Périgord Noir (Dordogne, France). Visite d'évaluation gratuite, devis sous 72 h, intervention sur mesure. Un des fondateurs est éducateur spécialisé de métier.
+
+## Prestations
+
+- [Débarrasser & trier un logement]({{ '/prestations/debarras-vidage/' | absolute_url }}) : débarras complet ou partiel, tri sélectif, don et réemploi, gestion administrative.
+- [Nettoyage & désinfection]({{ '/prestations/nettoyage-desinfection/' | absolute_url }}) : nettoyage de fond, désinfection après syndrome de Diogène ou insalubrité (équipe certifiée Certibiocide), nettoyage adapté au maintien à domicile.
+- [Accompagnement]({{ '/prestations/accompagnement/' | absolute_url }}) : coordination avec les familles, CCAS, tutelles et curatelles, services sociaux.
+
+## Zones d'intervention
+
+Sarlat-la-Canéda (ville d'attache) et un rayon d'environ une heure autour : Bergerac, Brive-la-Gaillarde, Cahors, Gourdon, Périgueux, et toutes les communes du Périgord Noir. Voir [zones d'intervention]({{ '/zones/' | absolute_url }}).
+
+## Espace professionnels
+
+Un espace dédié aux prescripteurs (CCAS, services sociaux, mandataires judiciaires, EHPAD et hôpitaux, notaires, agents immobiliers, bailleurs) : devis transmissible sous 72 h, facturation à un tiers possible, compte rendu d'intervention. Voir [espace professionnels]({{ '/professionnels/' | absolute_url }}).
+
+## Ressources & conseils
+
+Guides pratiques gratuits : aider un proche atteint du syndrome de Diogène, financer un débarras ou une remise en état, comprendre le déroulement d'un débarras, reconnaître un logement insalubre. Voir [ressources & conseils]({{ '/ressources/' | absolute_url }}).
+
+## À propos
+
+- [Qui sommes-nous]({{ '/qui-sommes-nous/' | absolute_url }}) : présentation de l'entreprise et de l'équipe fondatrice (Magalie Gabriel, Laurent Leroy).
+- [Questions fréquentes]({{ '/faq/' | absolute_url }})
+- [Contact & demande de devis]({{ '/contact/' | absolute_url }})
+
+## Contact
+
+Téléphone : {{ site.data.contact.telephone }} · Email : {{ site.data.contact.email }} · Site : {{ site.url }}

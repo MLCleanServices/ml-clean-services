@@ -10,6 +10,11 @@ description: >-
 lang: fr
 timezone: Europe/Paris
 
+# Image affichée dans les aperçus de partage (WhatsApp, Facebook, LinkedIn…)
+image: /assets/img/og-image.jpg
+# Logo utilisé dans les données structurées (Schema.org)
+logo: /assets/img/logo.png
+
 # URL de démonstration (GitHub Pages). Le jour du passage au domaine
 # personnalisé du client : url = https://www.LEDOMAINE.fr et baseurl = ""
 url: "https://mlcleanservices.fr"
