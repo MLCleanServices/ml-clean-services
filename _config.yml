@@ -11,7 +11,11 @@ lang: fr
 timezone: Europe/Paris
 
 # Image affichée dans les aperçus de partage (WhatsApp, Facebook, LinkedIn…)
-image: /assets/img/og-image.jpg
+image:
+  path: /assets/img/og-image.jpg
+  width: 1200
+  height: 630
+  alt: "ML Clean Services — Débarrassage, Nettoyage, Accompagnement"
 # Logo utilisé dans les données structurées (Schema.org)
 logo: /assets/img/logo.png
 
