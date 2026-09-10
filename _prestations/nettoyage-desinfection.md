@@ -2,11 +2,12 @@
 title: Nettoyage & Désinfection
 ordre: 2
 image: /assets/img/nettoyage-logement-dordogne.jpg
-accroche: Remettre un logement en état, du nettoyage de fond à la désinfection
-  complète, pour qu'il redevienne sain, sûr et habitable.
-description: "Nettoyage de fond, remise en état et désinfection de logements en
-  Périgord Noir : après syndrome de Diogène, insalubrité, ou en maintien à
-  domicile. Intervention discrète et respectueuse, devis gratuit sous 72 h."
+accroche: Remettre un logement en état, du nettoyage de fond et extrême à la
+  désinfection complète, pour qu'il redevienne sain, sûr et habitable.
+description: "Nettoyage de fond et extrême, remise en état et désinfection de
+  logements en Périgord Noir : après syndrome de Diogène, insalubrité, ou en
+  maintien à domicile. Intervention discrète et respectueuse, devis gratuit sous
+  72 h."
 points:
   - Traitement des nuisibles, « Certibiocide Nuisibles »
   - Désinfection, « Certibiocide Désinfectant »
@@ -20,7 +21,7 @@ en difficulté**.
 
 ## Nos 3 Niveaux d'Intervention
 
-### Nettoyage de fond
+### Nettoyage de fond et extrême
 
 Quand un logement a été négligé pendant des mois ou des années : nettoyage
 complet de toutes les surfaces, cuisine et sanitaires en profondeur,
