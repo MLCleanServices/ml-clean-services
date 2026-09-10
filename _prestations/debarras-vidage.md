@@ -9,10 +9,10 @@ description: "Débarras complet ou partiel de maison et d'appartement à Sarlat 
   alentours, en Périgord Noir : tri sélectif, don et réemploi, gestion
   administrative. Devis gratuit sous 72 h."
 points:
-  - Débarras complet ou partiel
   - Réorganisation des espaces
   - Tri sélectif, dons, recyclage, déchetterie
   - Gestion administrative et financière si besoin
+  - Débarras complet ou partiel
 ---
 Vider un logement n'est jamais un geste anodin. Derrière chaque débarras, il y a
 une histoire : un départ en maison de retraite, une succession, un logement à
