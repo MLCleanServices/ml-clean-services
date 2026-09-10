@@ -1,5 +1,5 @@
 ---
-title: Débarrasser & trier le Logement
+title: Débarrasser & Trier le Logement
 ordre: 1
 image: /assets/img/debarras-dordogne.jpg
 accroche: "Vider une maison ou un appartement, entièrement ou en partie, en
